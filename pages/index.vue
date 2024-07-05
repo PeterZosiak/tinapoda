@@ -4,21 +4,8 @@
 <template>
   <div>
 
-    <body>
-      <!-- Menu -->
-      <nav class="ann-site-menu" id="ann-navbar-spy">
-        <div class="ann-site-menu-inner" id="ann-navbar">
-          <ul class="list-unstyled">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About Me</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-        </div>
-      </nav>
-    </body>
+    <!-- Menu -->
+
 
     <!-- Header -->
     <header class="ann-site-header">
@@ -29,7 +16,34 @@
             <a href="index.html" class="ann-site-logo"><img src="/img/logo-dark.png" alt="ANN"></a>
           </div>
           <!-- Menu Burger -->
-          <div class="col-6 col-md-8 text-right ann-menu-burger-wrap"> <a href="#" class="ann-site-nav-toggle ann-js-ann-site-nav-toggle"><i></i></a> </div>
+          <div class="col-6 col-md-8">
+
+            <label for="menu-control" class="hamburger">
+              <i class="hamburger__icon"></i>
+              <i class="hamburger__icon"></i>
+              <i class="hamburger__icon"></i>
+            </label>
+
+            <input type="checkbox" id="menu-control" class="menu-control">
+
+            <aside class="sidebar">
+
+              <nav class="sidebar__menu">
+                <a href="">Home</a>
+                <a href="">About us</a>
+                <a href="">Services</a>
+                <a href="">Products</a>
+                <a href="">Contact</a>
+              </nav>
+              <label for="menu-control" class="sidebar__close"></label>
+
+
+            </aside>
+
+
+
+          </div>
+
         </div>
       </div>
     </header>
