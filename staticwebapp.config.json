@@ -4,5 +4,8 @@
     "exclude": [
       "*.{css, svg, js, ts, png, jpeg, jpg, ico}"
     ]
+  },
+  "platform": {
+    "apiRuntime": "node:18"
   }
 }
