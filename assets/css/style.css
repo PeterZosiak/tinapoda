@@ -30,6 +30,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700|Source+Sans+Pro:400,600&display=swap');
 
+@font-face {
+    font-family: Cherolina;
+    src: url(./fonts/Cherolina.ttf);
+}
+
 
 /* *** 01. General settings *** */
 
@@ -314,7 +319,7 @@ button {
 }
 
 .ann-site-header .ann-site-logo img {
-    width: 350px;
+    width: 150px;
 }
 
 .ann-site-header .social li {
@@ -594,23 +599,26 @@ button {
 }
 
 .ann-profile-info h2 {
-    font-size: 72px;
+    font-family: Cherolina;
+    font-size: 150px;
     color: white;
     display: block;
     line-height: 1em;
     font-weight: 100;
     margin-bottom: 20px;
     position: relative;
-    letter-spacing: 50px;
+    letter-spacing: 30px;
 
 }
 
 .ann-profile-info h2 span {
+    font-family: 'Source Sans Pro', sans-serif;
     display: block;
     font-size: 24px;
     letter-spacing: 50px;
     text-transform: uppercase;
     color: white;
+    font-weight: bold;
     line-height: 1.5em;
 }
 
@@ -2105,7 +2113,7 @@ span.user {
 .sidebar__close::after {
     content: "";
     height: 2px;
-    background: #898989;
+    background: black;
     width: 24px;
     display: block;
     position: absolute;
@@ -2119,14 +2127,16 @@ span.user {
     display: flex;
     flex-direction: column;
     flex: 1;
-    justify-content: space-around;
+    justify-content: start;
     font-size: 36px;
     margin-top: 80px;
     margin-bottom: 80px;
-    color: #898989;
+    color: black;
 }
 
 .sidebar__menu a {
+    padding: 20px 0;
+    color: black;
     color: currentcolor;
     text-decoration: none;
     transform: translatex(-80%);
@@ -2136,12 +2146,12 @@ span.user {
 .sidebar__menu a::before {
     content: "";
     height: 2px;
-    background: #898989;
+    background: #ffd700;
     width: 120px;
     position: absolute;
     bottom: -2px;
     left: 0;
-    transform: translatex(-50%);
+    transform: translatex(50%);
     opacity: 0;
     transition: transform 0.4s ease-in-out, opacity 0.4s linear;
 }

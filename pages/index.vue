@@ -53,13 +53,13 @@
       <div class="ann-profile-info">
         <div class="d-flex align-items-center w-100">
           <div class="mx-auto ann-profile-inner">
-            <h2>TINA PODA<span>ESTHETIC</span></h2>
+            <h2>Tina Poda<span>ESTHETIC</span></h2>
           </div>
         </div>
       </div>
       <!-- Carousel -->
       <div class="owl-carousel ann-main-slider">
-        <div class="slide-item" style="background-image: url(/img/portraits/2.jpg);"></div>
+        <div class="slide-item" style="background-image: url(/img/portraits/3.jpg);"></div>
       </div>
     </div>
   </div>
