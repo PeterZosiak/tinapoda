@@ -1,5 +1,5 @@
 <script>
-
+import Services from '~/components/services.vue'
 </script>
 <template>
   <div>
@@ -14,7 +14,7 @@
       </div>
       <!-- Carousel -->
       <div class="owl-carousel ann-main-slider">
-        <div class="slide-item" style="background-image: url(/img/portraits/3.jpg);"></div>
+        <div class="slide-item" style="background-image: url(/img/portraits/1.jpg);"></div>
       </div>
     </div>
   </div>
@@ -34,4 +34,5 @@
       </div>
     </div>
   </section>
+  <Services />
 </template>
