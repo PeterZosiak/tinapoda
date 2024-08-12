@@ -607,19 +607,35 @@ button {
     font-weight: 100;
     margin-bottom: 20px;
     position: relative;
-    letter-spacing: 30px;
+    letter-spacing: 40px;
+    font-weight: 500;
 
+
+
+    background-image: linear-gradient(to right,
+            #6b4442 0,
+            #cb9b51 15%,
+            #f6e27a 45%,
+            #cb9b51 50%,
+            #ffe048 55%,
+            #cb9b51 85%,
+            #6b4442 100%);
+    color: transparent;
+    -webkit-background-clip: text;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
 .ann-profile-info h2 span {
     font-family: 'Source Sans Pro', sans-serif;
     display: block;
-    font-size: 24px;
+    font-size: 32px;
     letter-spacing: 50px;
     text-transform: uppercase;
     color: white;
     font-weight: bold;
     line-height: 1.5em;
+    color: white;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
 .ann-profile-inner {
@@ -718,7 +734,16 @@ button {
 .ann-about-info h3 {
     font-size: 16px;
     font-weight: 400;
-    color: #ffd700;
+    background-image: linear-gradient(to right,
+            #462523 0,
+            #cb9b51 15%,
+            #f6e27a 45%,
+            #f6f2c0 50%,
+            #f6e27a 55%,
+            #cb9b51 85%,
+            #462523 100%);
+    color: transparent;
+    -webkit-background-clip: text;
 }
 
 .ann-profile {
