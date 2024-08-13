@@ -5,8 +5,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 offset-md-3 text-center mb-40">
-            <h2>Services</h2>
-            <p>Here are a few selections from my portfolio. Please view my expanded portfolio further below. Nam rhoncus euismo.</p>
+            <h2>Portfólio</h2>
+            <p>Moje služby zahŕňajú komplexné zážitkové ošetrenia pleti, chemické peelingy, príležitostné fashion líčenie a školenia pre kozmetičky.</p>
           </div>
         </div>
         <div class="row">
@@ -15,8 +15,8 @@
               <div class="item e2">
                 <img src="/img/600x400.jpg">
                 <div class="text2">
-                  <h3>Rituály</h3>
-                  <p>Kratky ale ze kratky popis</p>
+                  <h3>FYRIS rituals</h3>
+                  <p>FYRIS rituály a zážitkové ošetrenia</p>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>
@@ -31,8 +31,8 @@
               <div class="item e2">
                 <img src="/img/600x400.jpg">
                 <div class="text2">
-                  <h3>Rituály</h3>
-                  <p>Kratky ale ze kratky popis</p>
+                  <h3>MEDICAL peelings</h3>
+                  <p>MEDICAL chemické peelingy</p>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>
@@ -46,8 +46,7 @@
               <div class="item e2">
                 <img src="/img/600x400.jpg">
                 <div class="text2">
-                  <h3>Rituály</h3>
-                  <p>Kratky ale ze kratky popis</p>
+                  <h3>Fashion makeup</h3>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>
@@ -61,8 +60,7 @@
               <div class="item e2">
                 <img src="/img/600x400.jpg">
                 <div class="text2">
-                  <h3>Rituály</h3>
-                  <p>Kratky ale ze kratky popis</p>
+                  <h3>Make-up academy</h3>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>
@@ -71,6 +69,7 @@
               </div>
             </nuxt-link>
           </div>
+
         </div>
       </div>
     </section>
