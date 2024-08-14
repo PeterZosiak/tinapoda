@@ -8,7 +8,7 @@ import Services from '~/components/services.vue'
       <div class="ann-profile-info">
         <div class="d-flex align-items-center w-100">
           <div class="mx-auto ann-profile-inner">
-            <h2 class="headline">Tina Poda<span>ESTHETIC</span></h2>
+            <h2 class="headline">TINA PODA<span>Beauty expert na Krásu</span></h2>
           </div>
         </div>
       </div>
@@ -25,10 +25,14 @@ import Services from '~/components/services.vue'
       <div class="row ann-about-inner">
         <div class="col-md-8 offset-md-2 text-center">
           <div class="ann-about-info">
-            <h1>About Me</h1>
-            <h3>Kosmetolog & Make-up Artist</h3>
-            <p>Nulla molestie finibus dignissim. Nunc ultrices odio mauris fermentum, gravida varius dranex the celacinia. Proin dictum nisleu scelerisque risus feugiat the amet. Vestibulum condimentum sem non dui tempoeu. Aliquam non venenatis. Donec eget neque et nulla interdum iaculis seder.</p>
-            <p class="ann-signature-dark"><img src="/img/signature.png" alt="Ann Martin"></p>
+            <h1>Pár slov o Tina Poda</h1>
+            <h3>Beauty expert na Krásu</h3>
+            <p>Celý môj život je prepojený s krásou a starostlivosťou o pleť. Beauty oblasti sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky.</p>
+            <p class="ann-signature-dark">
+              <nuxt-link to="/o-mne" class="ann-btn">Dozvedieť sa viac
+                <!-- <NuxtImg src="/img/signature.png" alt="Tina Poda" /> -->
+              </nuxt-link>
+            </p>
           </div>
         </div>
       </div>

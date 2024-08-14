@@ -5,7 +5,7 @@
       <div class="container">
         <div class="col-md-8 offset-md-2">
           <div class="ann-page-content text-center">
-            <h2>Contact</h2>
+            <h2>Kontakt</h2>
             <p>Please reach out to me with your inquiry!</p>
           </div>
         </div>
@@ -60,4 +60,5 @@
         </div>
       </div>
     </section>
-</div></template>
+  </div>
+</template>

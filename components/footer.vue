@@ -18,7 +18,9 @@
         <!-- Logo -->
         <div class="row">
           <div class="col-md-12 text-center">
-            <div class="brand"><img src="/img/logo-light.png" alt="ANN"></div>
+            <div class="brand">
+              <NuxtImg src="/img/logo-light.png" alt="ANN" />
+            </div>
           </div>
         </div>
         <!-- Copyright -->

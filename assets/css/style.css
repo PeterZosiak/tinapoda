@@ -28,13 +28,7 @@
 
 /* *** 01. Fonts *** */
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700|Source+Sans+Pro:400,600&display=swap');
-
-@font-face {
-    font-family: Cherolina;
-    src: url(./fonts/Cherolina.ttf);
-}
-
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700|Source+Sans+Pro:400,600&display=swap');
 
 /* *** 01. General settings *** */
 
@@ -43,9 +37,14 @@
     margin: 0;
 }
 
+.space {
+    display: block;
+    margin-bottom: 20px;
+}
+
 body {
     background-color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 1.5em;
     color: #888;
@@ -62,7 +61,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat",
+        sans-serif;
     color: #1B1B1B;
     line-height: 1.5em;
     margin: 0 0 20px;
@@ -113,7 +113,8 @@ a,
 span {}
 
 p {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Montserrat",
+        sans-serif;
     font-size: 16px;
     margin-bottom: 0 0 20px;
     line-height: 1.5em;
@@ -279,7 +280,8 @@ button {
 .ann-site-menu ul>li a {
     color: #1b1b1b;
     font-size: 16px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat",
+        sans-serif;
     font-weight: 400;
 }
 
@@ -314,7 +316,7 @@ button {
     padding: 0;
     color: #1b1b1b;
     font-size: 40px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
 }
 
@@ -362,7 +364,7 @@ button {
     padding: 0;
     color: #1b1b1b;
     font-size: 40px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
 }
 
@@ -559,7 +561,7 @@ button {
 .menus .item .text h3 {
     color: #fff;
     font-size: 22px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     margin-bottom: 20px;
 }
@@ -592,27 +594,26 @@ button {
     width: 100%;
     height: 100%;
     left: 0;
-    top: 0;
+    top: 25%;
     display: block;
     z-index: 10;
     text-align: center;
 }
 
 .ann-profile-info h2 {
-    font-family: Cherolina;
-    font-size: 150px;
-    color: white;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 72px;
+    color: black;
     display: block;
     line-height: 1em;
     font-weight: 100;
     margin-bottom: 20px;
     position: relative;
-    letter-spacing: 40px;
-    font-weight: 500;
+    letter-spacing: 0.3em;
 
 
 
-    background-image: linear-gradient(to right,
+    /* background-image: linear-gradient(to right,
             #6b4442 0,
             #cb9b51 15%,
             #f6e27a 45%,
@@ -621,21 +622,20 @@ button {
             #cb9b51 85%,
             #6b4442 100%);
     color: transparent;
-    -webkit-background-clip: text;
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    -webkit-background-clip: text; 
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);*/
 }
 
 .ann-profile-info h2 span {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Cormorant Garamond", serif;
     display: block;
-    font-size: 32px;
-    letter-spacing: 50px;
+    font-size: 24px;
+    letter-spacing: 0.74em;
     text-transform: uppercase;
     color: white;
     font-weight: bold;
     line-height: 1.5em;
-    color: white;
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+
 }
 
 .ann-profile-inner {
@@ -705,7 +705,7 @@ button {
 }
 
 .ann-about-content span {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #fff;
     font-size: 30px;
     line-height: 1.5em;
@@ -714,7 +714,7 @@ button {
 }
 
 .ann-about-info h1 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #fff;
     font-size: 32px;
     line-height: 1.5em;
@@ -723,7 +723,7 @@ button {
 }
 
 .ann-about-info h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #1b1b1b;
     font-size: 32px;
     line-height: 1.5em;
@@ -790,15 +790,16 @@ button {
 }
 
 .ann-signature-dark {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #d3a9a6;
     font-size: 16px;
     line-height: 1.5em;
     font-weight: 400;
+    margin-top: 40px;
 }
 
 .ann-signature-dark img {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #d3a9a6;
     font-size: 16px;
     line-height: 1.5em;
@@ -1595,7 +1596,7 @@ span.user {
 }
 
 .ann-footer-section .brand {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 40px;
     line-height: 1.5em;
     font-weight: 700;
@@ -2167,7 +2168,7 @@ span.user {
     transition: transform 0.4s ease-in-out;
     color: #1b1b1b;
     font-size: 18px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #f1f1f1;
     text-align: center;
@@ -2253,18 +2254,20 @@ span.user {
     overflow: hidden;
     position: relative;
     color: white;
+    width: 100%;
 }
 
 .item h3 {
     color: black;
-    font-family: Cherolina;
-    font-size: 72px;
-    font-weight: 500;
+    font-family: "Cormorant Garamond",
+        serif;
+    font-size: 36px;
+    font-weight: 100;
 
 }
 
 .item img {
-    max-width: 100%;
+    width: 100%;
     display: block;
     transition: all 0.5s ease;
 }
