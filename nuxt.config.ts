@@ -4,14 +4,15 @@ export default defineNuxtConfig({
   css: ['bootstrap/dist/css/bootstrap.min.css', '~/assets/css/style.css'],
   modules: [
     '@vesp/nuxt-fontawesome',
-    'nuxt-swiper',
     "@nuxt/scripts",
     ["@nuxtjs/google-fonts", {
       families: { 'Cormorant Garamond': '100..900', Montserrat: true }
     }],
     "@nuxt/image"
   ],
-
+  image: {
+    provider: "ipx"
+  },
   fontawesome: {
     icons: {
       solid: ['cog'],
