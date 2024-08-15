@@ -7,7 +7,7 @@
           <div class="col-md-12">
             <div class="ann-blog-items ann-single-post">
               <div class="entry-thumb">
-                <NuxtImg src="/img/1920x1000.jpg" alt="blog post" />
+                <img src="/img/1920x1000.jpg" alt="blog post" />
               </div>
               <div class="ann-page-content mb-20">
                 <h2>Portfolio</h2>
@@ -28,28 +28,28 @@
           <div class="col-md-6 single-item hair">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <NuxtImg src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="" />
               </a>
             </div>
           </div>
           <div class="col-md-6 single-item wedding">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <NuxtImg src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="" />
               </a>
             </div>
           </div>
           <div class="col-md-6 single-item hair">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <NuxtImg src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="" />
               </a>
             </div>
           </div>
           <div class="col-md-6 single-item wedding">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <NuxtImg src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="" />
               </a>
             </div>
           </div>

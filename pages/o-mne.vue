@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row ann-about-inner">
           <div class="col-md-4">
-            <NuxtImg class="ann-about-img" src="/img/t1.jpg" alt="Tina Poda" />
+            <img class="ann-about-img" src="/img/t1.jpg" alt="Tina Poda" />
           </div>
           <div class="col-md-8">
             <div class="ann-about-info">
@@ -18,7 +18,7 @@
               <p><strong>Dnes sa starám o svojich ctených klientov v srdci Vinohradov v Prahe.</strong></p>
               <p>Zároveň mi je cťou byť súčasťou vzdelávacej akadémie ALMAF BEAUTY a predávať expertné skúsenosti aj kolegyniam v branži. </p>
               <p class="ann-signature-dark">
-                <NuxtImg src="/img/signature.png" alt="Tina Poda" />
+                <img src="/img/signature.png" alt="Tina Poda" />
               </p>
             </div>
           </div>

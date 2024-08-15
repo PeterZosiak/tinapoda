@@ -30,7 +30,7 @@ import Services from '~/components/services.vue'
             <p>Celý môj život je prepojený s krásou a starostlivosťou o pleť. Beauty oblasti sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky.</p>
             <p class="ann-signature-dark">
               <nuxt-link to="/o-mne" class="ann-btn">Dozvedieť sa viac
-                <!-- <NuxtImg src="/img/signature.png" alt="Tina Poda" /> -->
+                <!-- <img src="/img/signature.png" alt="Tina Poda" /> -->
               </nuxt-link>
             </p>
           </div>
