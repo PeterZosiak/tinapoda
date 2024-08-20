@@ -2104,6 +2104,7 @@ span.user {
     border-radius: 2px;
 }
 
+
 .sidebar {
     height: 100vh;
     width: 320px;
@@ -2112,11 +2113,19 @@ span.user {
     top: 0;
     right: 0;
     padding: 0 60px;
-    display: flex;
     flex-direction: column;
     transform: translatex(150%);
-    transition: transform 0.4s ease-in-out;
+    /* transition: transform 0.4s ease-in-out, opacity 0.4s linear, display 0.4s linear; */
+
+
+    transition: all 0.4s linear;
+    transition-behavior: allow-discrete;
+    display: none;
+    animation: appear 1s;
+
+
 }
+
 
 .sidebar__close {
     position: absolute;
@@ -2235,6 +2244,9 @@ span.user {
 
 .menu-control:checked+.sidebar {
     transform: translatex(0);
+    opacity: 1;
+    display: flex;
+
 }
 
 .menu-control:checked+.sidebar .sidebar__close {
@@ -2243,6 +2255,16 @@ span.user {
 
 .menu-control:checked+.sidebar .sidebar__menu a {
     transform: translatex(0);
+}
+
+@keyframes appear {
+    from {
+        display: none;
+    }
+
+    to {
+        display: flex;
+    }
 }
 
 
@@ -2339,4 +2361,19 @@ span.user {
     top: 10%;
     width: 1px;
     height: 80%;
+}
+
+nav li {}
+
+nav .navbar-toggler {
+    border: none
+}
+
+nav a {
+    font-size: 18px;
+    border-bottom: 2px solid transparent;
+}
+
+nav a.router-link-active {
+    border-bottom: 2px solid #ffd700;
 }

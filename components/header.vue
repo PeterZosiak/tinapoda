@@ -5,13 +5,13 @@
       <div class="container">
         <div class="row align-items-center">
           <!-- Logo -->
-          <div class="col-6 col-md-4 ann-site-logo-wrap">
+          <!-- <div class="col-md-4 col-sm-2 ann-site-logo-wrap">
             <nuxt-link to="/" class="ann-site-logo">
               <img src="/img/logo-dark.png" alt="Tina Poda" />
             </nuxt-link>
-          </div>
+          </div> -->
           <!-- Menu Burger -->
-          <div class="col-6 col-md-8">
+          <div class="col">
             <SidebarMenu />
           </div>
         </div>

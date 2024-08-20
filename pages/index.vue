@@ -25,11 +25,11 @@ import Services from '~/components/services.vue'
       <div class="row ann-about-inner">
         <div class="col-md-8 offset-md-2 text-center">
           <div class="ann-about-info">
-            <h1>Pár slov o Tina Poda</h1>
+            <h1>Tina Poda</h1>
             <h3>Beauty expert na Krásu</h3>
             <p>Celý môj život je prepojený s krásou a starostlivosťou o pleť. Beauty oblasti sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky.</p>
             <p class="ann-signature-dark">
-              <nuxt-link to="/o-mne" class="ann-btn">Dozvedieť sa viac
+              <nuxt-link to="/o-mne" class="ann-btn">... viac
                 <!-- <img src="/img/signature.png" alt="Tina Poda" /> -->
               </nuxt-link>
             </p>
