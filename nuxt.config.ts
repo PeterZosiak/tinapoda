@@ -4,7 +4,6 @@ export default defineNuxtConfig({
   css: ['bootstrap/dist/css/bootstrap.min.css', '~/assets/css/style.css'],
   modules: [
     '@vesp/nuxt-fontawesome',
-    "@nuxt/scripts",
     ["@nuxtjs/google-fonts", {
       families: { 'Cormorant Garamond': '100..900', Montserrat: true }
     }],
@@ -13,6 +12,7 @@ export default defineNuxtConfig({
   image: {
     provider: "ipx"
   },
+  plugins: ['~/plugins/vue3-google-map'],
   fontawesome: {
     icons: {
       solid: ['cog'],
