@@ -12,7 +12,7 @@
       </div>
     </section>
     <section class="ann-contact-section">
-      <GoogleMap id="ann-contactMap" api-key="AIzaSyBJorqFhqOXO-fhHgmhH2Ghk_6fhHBpyoA" :center="{ lat: 50.07351020584064, lng: 14.46226088141675 }" :zoom="16">
+      <GoogleMap id="ann-contactMap" :api-key="GOOGLE_MAP_KEY" :center="{ lat: 50.07351020584064, lng: 14.46226088141675 }" :zoom="16">
         <Marker :options="{ position: { lat: 50.07351020584064, lng: 14.46226088141675 } }" />
       </GoogleMap>
       <div class="container">
@@ -32,16 +32,15 @@
             <div class="ann-contact-form">
               <h3>Kontaktný formulár</h3>
               <p>Please reach out to me with your inquiry! I service all of California.</p>
-              <form action="#" method="post" class="form-horizontal">
+              <form id="contact-form" @submit.prevent="handleSubmit" class="form-horizontal">
                 <div class="form-group colum-row row">
                   <div class="col-sm-6">
-                    <input type="text" id="name" name="name" class="form-control" placeholder="Meno" required>
+                    <input type="text" autocomplete="name" id="name" name="name" class="form-control" placeholder="Meno" required>
                   </div>
                   <div class="col-sm-6">
-                    <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
+                    <input type="email" autocomplete="email" id="email" name="email" class="form-control" placeholder="Email" required>
                   </div>
                 </div>
-
                 <div class="form-group row">
                   <div class="col-md-12">
                     <textarea id="message" name="message" cols="30" rows="5" class="form-control message" placeholder="Vaša správa" required></textarea>
@@ -60,3 +59,33 @@
     </section>
   </div>
 </template>
+
+<script setup>
+import { ref } from 'vue';
+const mail = useMail()
+
+const config = useRuntimeConfig();
+const GOOGLE_MAP_KEY = config.public.GOOGLE_MAP_KEY;
+
+
+const handleSubmit = (event) => {
+  const form = event.target;
+  const name = form.name.value;
+  const email = form.email.value;
+  const message = form.message.value;
+
+  console.log('Name:', name);
+  console.log('Email:', email);
+  console.log('Message:', message);
+
+  mail.send({
+
+    from: 'John Doe',
+    to: '',
+    subject: 'Incredible',
+    text: 'This is an incredible test message',
+  })
+};
+
+
+</script>
