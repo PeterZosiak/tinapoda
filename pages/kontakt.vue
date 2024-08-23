@@ -79,11 +79,17 @@ const handleSubmit = (event) => {
   console.log('Message:', message);
 
   mail.send({
-
     from: 'John Doe',
     to: '',
     subject: 'Incredible',
     text: 'This is an incredible test message',
+    smtp: {
+      service: 'gmail',
+      auth: {
+        user: 'tinapoda.beauty',
+        pass: 'Tina123456',
+      },
+    },
   })
 };
 

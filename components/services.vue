@@ -15,8 +15,8 @@
               <div class="item e2">
                 <img src="/img/600x400.jpg" />
                 <div class="text2">
-                  <h3>FYRIS rituals</h3>
-                  <p>FYRIS rituály a zážitkové ošetrenia</p>
+                  <h3>PHYRIS rituals</h3>
+                  <p>PHYRIS rituály a zážitkové ošetrenia</p>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>

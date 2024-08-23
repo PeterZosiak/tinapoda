@@ -3,20 +3,22 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['bootstrap/dist/css/bootstrap.min.css', '~/assets/css/style.css'],
   modules: [
-
+    'nuxt-gtag',
     ['nuxt-mail', {
       message: {
         from: '',
-        to: 'tinapoda.beauty@gmail.com',
+        to: 'tinapoda.beauty',
       },
       smtp: {
         service: 'gmail',
         auth: {
-          user: 'tinapoda.beauty@gmail.com',
+          user: 'tinapoda.beauty',
           pass: 'Tina123456',
         },
       },
     }],
+
+
     '@vesp/nuxt-fontawesome', ["@nuxtjs/google-fonts", {
       families: { 'Cormorant Garamond': '100..900', Montserrat: true }
     }], "@nuxt/image", "nuxt-mail", "nuxt-gtag"],
@@ -28,6 +30,9 @@ export default defineNuxtConfig({
     icons: {
       solid: ['cog'],
     }
+  },
+  gtag: {
+    id: 'G-3BEQBZNBTB'
   },
 
   runtimeConfig: {
