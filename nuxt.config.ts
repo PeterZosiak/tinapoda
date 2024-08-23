@@ -2,26 +2,21 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['bootstrap/dist/css/bootstrap.min.css', '~/assets/css/style.css'],
-  modules: [
-    'nuxt-gtag',
-    ['nuxt-mail', {
-      message: {
-        from: '',
-        to: 'tinapoda.beauty',
+  modules: ['nuxt-gtag', ['nuxt-mail', {
+    message: {
+      from: '',
+      to: 'tinapoda.beauty',
+    },
+    smtp: {
+      service: 'gmail',
+      auth: {
+        user: 'tinapoda.beauty',
+        pass: 'Tina123456',
       },
-      smtp: {
-        service: 'gmail',
-        auth: {
-          user: 'tinapoda.beauty',
-          pass: 'Tina123456',
-        },
-      },
-    }],
-
-
-    '@vesp/nuxt-fontawesome', ["@nuxtjs/google-fonts", {
-      families: { 'Cormorant Garamond': '100..900', Montserrat: true }
-    }], "@nuxt/image", "nuxt-mail", "nuxt-gtag"],
+    },
+  }], '@vesp/nuxt-fontawesome', ["@nuxtjs/google-fonts", {
+    families: { 'Cormorant Garamond': '100..900', Montserrat: true }
+  }], "@nuxt/image", "nuxt-mail", "nuxt-gtag", "@nuxtjs/sitemap"],
   image: {
     provider: "ipx"
   },
@@ -35,6 +30,10 @@ export default defineNuxtConfig({
     id: 'G-3BEQBZNBTB'
   },
 
+  site: {
+    url: 'https://tinapoda.beauty',
+    name: 'TINA PODA - Beauty expert na Krásu'
+  },
   runtimeConfig: {
     public: {
       GOOGLE_MAP_KEY: process.env.GOOGLE_MAP_KEY ?? 'SHIT'
