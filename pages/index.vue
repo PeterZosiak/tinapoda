@@ -40,3 +40,14 @@ import Services from '~/components/services.vue'
   </section>
   <Services />
 </template>
+
+<script setup>
+
+useHead({
+  title: 'Tina Poda - Beauty expert na Krásu',
+  description: 'Kozmetické procedúry a autentické rituály, ktoré napomáha maximalizovať pôžitok z času venovaného sebe. Váš Beauty expert na Krásu, už 20 rokov.',
+  image: '/img/portraits/1.jpg',
+  url: 'https://tinapoda.beauty/',
+})
+
+</script>
