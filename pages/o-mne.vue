@@ -35,3 +35,5 @@ useHead({
   image: '/img/t1.jpg',
   url: 'https://tinapoda.beauty/o-mne',
 })
+
+</script>
