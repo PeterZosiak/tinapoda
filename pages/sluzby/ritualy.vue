@@ -28,28 +28,28 @@
           <div class="col-md-6 single-item hair">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="gallery img" />
               </a>
             </div>
           </div>
           <div class="col-md-6 single-item wedding">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="gallery img" />
               </a>
             </div>
           </div>
           <div class="col-md-6 single-item hair">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="gallery img" />
               </a>
             </div>
           </div>
           <div class="col-md-6 single-item wedding">
             <div class="gallery-wrap">
               <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="" />
+                <img src="/img/600x400.jpg" alt="gallery img" />
               </a>
             </div>
           </div>

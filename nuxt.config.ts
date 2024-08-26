@@ -40,6 +40,15 @@ export default defineNuxtConfig({
     }
   },
 
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: 'sk',
+      },
+      charset: 'utf-8',
+    }
+  },
+
 
 
   compatibilityDate: '2024-07-03'
