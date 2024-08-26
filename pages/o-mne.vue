@@ -5,7 +5,9 @@
       <div class="container">
         <div class="row ann-about-inner">
           <div class="col-md-4">
-            <img class="ann-about-img" src="/img/t1.jpg" alt="Tina Poda" />
+            <div class="img-wrapper">
+              <img class="ann-about-img" src="/img/t1.jpg" alt="Tina Poda" />
+            </div>
           </div>
           <div class="col-md-8">
             <div class="ann-about-info">

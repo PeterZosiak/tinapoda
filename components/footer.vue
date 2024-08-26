@@ -25,7 +25,7 @@
         <!-- Copyright -->
         <div class="row">
           <div class="col-md-12">
-            <p class="copright">2024 © Tina Poda. All rights reserved. Created by <a aria-label="CStudio" href="https:cstudio.sk" target="_blank">CStudio</a></p>
+            <p class="copright">2024 © Tina Poda. All rights reserved. Created with ♥ by <a aria-label="CStudio" href="https:cstudio.sk" target="_blank">CStudio</a></p>
           </div>
         </div>
       </div>
