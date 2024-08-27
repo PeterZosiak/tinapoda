@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  ssr: true,
   css: ['bootstrap/dist/css/bootstrap.min.css', '~/assets/css/style.css'],
   modules: ['nuxt-gtag', ['nuxt-mail', {
     message: {
@@ -24,6 +25,7 @@ export default defineNuxtConfig({
   fontawesome: {
     icons: {
       solid: ['cog'],
+      brands: ['facebook', 'instagram', 'twitter', 'linkedin']
     }
   },
   gtag: {
@@ -42,6 +44,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
+      link: [{ rel: 'stylesheet', href: 'https://static.fontawesome.com/css/fontawesome-app.css' }],
       htmlAttrs: {
         lang: 'sk',
       },

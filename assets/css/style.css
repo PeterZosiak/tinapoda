@@ -2149,6 +2149,8 @@ span.user {
     display: none;
     animation: appear 1s;
 
+    box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.03);
+
 
 }
 
@@ -2408,5 +2410,5 @@ nav a {
 }
 
 nav a.router-link-active {
-    border-bottom: 2px solid #ffd700;
+    border-bottom: 2px solid #e52e71;
 }
