@@ -5,14 +5,14 @@ export default defineNuxtConfig({
   css: ['bootstrap/dist/css/bootstrap.min.css', '~/assets/css/style.css'],
   modules: ['nuxt-gtag', ['nuxt-mail', {
     message: {
-      from: '',
-      to: 'tinapoda.beauty',
+      to: process.env.GMAIL_USER,
     },
     smtp: {
       service: 'gmail',
       auth: {
-        user: 'tinapoda.beauty',
-        pass: 'Tina123456',
+        user: process.env.GMAIL_USER,
+        pass: process.env.GMAIL_PASS,
+
       },
     },
   }], '@vesp/nuxt-fontawesome', ["@nuxtjs/google-fonts", {
