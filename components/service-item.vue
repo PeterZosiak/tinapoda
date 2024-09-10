@@ -1,16 +1,17 @@
 <template>
   <div>
-    <div class="service-item mb-5 ">
-      <div class="row service-delimiter">
-        <div class="col-md-8 col-sm-12">
-          <h4>{{ title }}</h4>
+    <div class="service-item mb-4 ">
+      <div class="row">
+        <div class="col">
+          <h4 class="text-center">{{ title }} </h4>
+
         </div>
-        <div class="col-md-4 col-sm-12 float-end"><span class="float-end">{{ price }} <span>/ {{ time }}</span></span></div>
+        <!-- <div class="col-md-4 col-sm-12 float-end service-delimiter"><span class="float-end">{{ price }} <span>/ {{ time }}</span></span></div> -->
       </div>
       <div class="row">
         <div class="col-12">
-          <p class="mt-2">{{ description }}
-          </p>
+          <p class="mb-1 p-3 text-center">{{ description }} <br></p>
+          <p class="text-center"><span class="price">{{ price }}</span> / <span class="time">{{ time }}</span></p>
         </div>
       </div>
     </div>

@@ -13,7 +13,7 @@
           <div class="col-md-6 single-item">
             <nuxt-link to="sluzby/ritualy">
               <div class="item e2">
-                <img src="/img/600x400.jpg" alt="Tina Poda - PHYRIS rituals" />
+                <img src="/img/ritualy.jpeg" alt="Tina Poda - PHYRIS rituals" />
                 <div class="text2">
                   <h3>PHYRIS rituals</h3>
                   <p>PHYRIS rituály a zážitkové ošetrenia</p>

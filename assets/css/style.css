@@ -781,6 +781,16 @@ button {
     position: relative;
 }
 
+.img-wrapper img {
+    position: relative;
+    z-index: 3;
+    transition: all 0.3s ease-in-out;
+}
+
+.img-wrapper img:hover {
+    scale: 1.05;
+}
+
 .img-wrapper::before {
     content: '';
     position: absolute;
