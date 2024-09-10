@@ -32,6 +32,20 @@
 
 /* *** 01. General settings *** */
 
+@font-face {
+    font-family: 'CustomFont';
+    src: url('./fonts/fonts.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AltaLight';
+    src: url('/fonts/alta-light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -61,8 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Montserrat",
-        sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #1B1B1B;
     line-height: 1.5em;
     margin: 0 0 20px;
@@ -113,12 +126,12 @@ a,
 span {}
 
 p {
-    font-family: "Montserrat",
-        sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     margin-bottom: 0 0 20px;
     line-height: 1.5em;
     font-weight: 400;
+
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -280,8 +293,7 @@ button {
 .ann-site-menu ul>li a {
     color: #1b1b1b;
     font-size: 16px;
-    font-family: "Montserrat",
-        sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 400;
 }
 
@@ -714,16 +726,16 @@ button {
 }
 
 .ann-about-info h1 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "AltaLight";
     color: #fff;
-    font-size: 32px;
+    font-size: 48px;
     line-height: 1.5em;
     margin: 0 0 15px;
     font-weight: 700;
 }
 
 .ann-about-info h2 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "AltaLight";
     color: #1b1b1b;
     font-size: 32px;
     line-height: 1.5em;
@@ -732,13 +744,23 @@ button {
 }
 
 .ann-about-info h3 {
-    font-size: 16px;
+    font-family: "AltaLight";
+    font-size: 22px;
     font-weight: 400;
-    color: #ffd700;
+    color: #BEA054;
+}
+
+.ann-about-info p {
+
+    color: #1B1B1B;
+}
+
+.ann-about-info p.para {
+    color: white;
 }
 
 .ann-profile {
-    background: #ffd700;
+    background: #BEA054;
     overflow: hidden;
     position: absolute;
     width: 320px;
@@ -2231,7 +2253,7 @@ span.user {
 .sidebar__menu a::before {
     content: "";
     height: 2px;
-    background: #ffd700;
+    background: #BEA054;
     width: 100%;
     position: absolute;
     bottom: -2px;
@@ -2333,11 +2355,16 @@ input:user-valid {
 
 .item h3 {
     color: black;
-    font-family: "Cormorant Garamond",
-        serif;
+    font-family: "AltaLight";
     font-size: 36px;
-    font-weight: 100;
+    font-weight: 700;
 
+}
+
+.item p {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 22px;
+    color: white;
 }
 
 .item img {

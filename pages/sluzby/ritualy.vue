@@ -23,7 +23,10 @@ import ServiceItem from '~/components/service-item.vue';
           </div>
         </div>-->
         <div class="row ann-portfolio-gallery-section">
-          <div class="col-md-12 text-center">
+          <div class="col text-center">
+            <img class="mb-5" width="350" src="/img/phyris_logo_gold.webp" />
+          </div>
+          <div class="col text-center">
             <h2 class="mb-5">Omlazení a hydratace</h2>
           </div>
 

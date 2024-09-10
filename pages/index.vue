@@ -8,7 +8,8 @@ import Services from '~/components/services.vue'
       <div class="ann-profile-info">
         <div class="d-flex align-items-center w-100">
           <div class="mx-auto ann-profile-inner">
-            <h2 class="headline">TINA PODA<span>Beauty expert na Krásu</span></h2>
+            <!-- <h2 class="headline">TINA PODA<span>Beauty expert na Krásu</span></h2> -->
+            <img src="/img/Tina_Poda.png" width="45%" alt="">
           </div>
         </div>
       </div>
@@ -27,7 +28,7 @@ import Services from '~/components/services.vue'
           <div class="ann-about-info">
             <h1>Tina Poda</h1>
             <h3>Beauty expert na Krásu</h3>
-            <p>Celý môj život je prepojený s krásou a starostlivosťou o pleť. Beauty oblasti sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky.</p>
+            <p class="para">Celý môj život je prepojený s krásou a starostlivosťou o pleť. Beauty oblasti sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky.</p>
             <p class="ann-signature-dark">
               <nuxt-link to="/o-mne" class="ann-btn"> Viac
                 <!-- <img src="/img/signature.png" alt="Tina Poda" /> -->
