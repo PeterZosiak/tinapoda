@@ -23,7 +23,7 @@
           <div class="col-md-6 col-sm-12">
             <img class="mb-5 text-center img-fluid mx-auto d-block service-logo" src="/img/phyris_logo_gold.webp" alt="phyris logo" />
             <div class="img-wrapper mb-5">
-              <img class="ann-about-img img-fluid" src="/img/s111.png" alt="Tina Poda - Ritualy">
+              <img class="ann-about-img img-fluid" src="/img/s111.webp" alt="Tina Poda - Ritualy">
             </div>
           </div>
           <div class="col-md-6 col-sm-12">
@@ -37,6 +37,8 @@ Díky revoluční složce HYDRO-BOOST, která okamžitě zklidňuje a hydratuje 
 
             <ServiceItem title="FOREST Ritual" price="2.790,-Kč" time="90 min" description="Vydejte se na „procházku lesem“ s ošetřením PHYRIS a pleťovou řadou FoRest. Toto smyslové rituálové ošetření vás okouzlí vůní lesa, muzikoterapií, dotekem a speciální masáží, která vám umožní na chvíli vypnout a odpočinout si od hektického světa. <br>Výsledkem bude nejen krásná, rozzářená a odpočinutá pleť, ale také zklidněná mysl. Silně okysličená pleť získá nový nádech a vitalitu, což doslova probudí vaši pleť k životu." />
 
+            <ServiceItem title="SEE CHANGE - COLAGEN Omlazení" price="2.790,-Kč" time="90 min" description="Široké spektrum mořských řas v tomto ošetření zklidňuje pokožku, podporuje její regeneraci a poskytuje intenzivní hydrataci. Unikátní složení produktů See Change v tomto ošetření výrazně zlepšuje pevnost pokožky a podporuje syntézu kolagenu. Ošetření je ideální jak pro letní období (pro hydrataci), tak i pro zimu, kdy je obohaceno o mořský kolagen s vitamínem C. Výsledkem je pevná, rozzářená a zdravě vypadající pleť." />
+            <ServiceItem title="PERFECT AGE - omlazující ošetření s kmeňovými buňkami" price="2.790,-Kč" time="90 min" description="Toto jedinečné Anti-Aging ošetření je ideální prevencí pro ženy i muže, kteří chtějí dosáhnout nadčasové krásy a mladistvého vzhledu pleti. Vysoce účinné látky, včetně kmenových buněk z rozkvetlé jabloně, mandlí, peptidů a liftingové masáže, okamžitě zjemňují, omlazují a vypínají vaši pleť, dodávají jí svěžest a pevnost." />
 
           </div>
         </div>
