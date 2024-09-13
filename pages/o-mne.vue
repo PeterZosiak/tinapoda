@@ -11,14 +11,13 @@
           </div>
           <div class="col-md-8">
             <div class="ann-about-info">
-              <h2>Kto je Tina Poda</h2>
+              <h2>Kdo je Tina Poda</h2>
               <p>
-                Celý môj život je prepojený s krásou a starostlivosťou o pleť. <strong>Beauty oblasti</strong> sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky. </p>
-              <p>Kozmetické procedúry dopĺňam o <strong>autentické rituály</strong>, čo napomáha maximalizovať pôžitok z času venovaného sebe. S klientami zároveň pracujem <strong>komplexne</strong> – od konzultácie, cez individuálnu starostlivosť o pleť podľa stavu pokožky, potreby a sezónnosti až po motiváciu k budovaní ich vlastných (a správnych) návykov. </p>
-
-              <p>Kariéru som budovala v renomovaných kozmetických salónoch na Slovensku a v Česku. Podieľala som sa na veľkých projektoch, zaškoľovaní tímov a vytváraní nových konceptov starostlivosti o pleť. Získala som certifikáciu rôznych oblastí starostlivosti o pleť a vizážistiky. Roky som pôsobila ako make-up artistka: líčila slovensko-český showbiznis, modelky na súťažiach krásy, fashion weekoch a iných významných príležitostiach. </p>
-              <p><strong>Dnes sa starám o svojich ctených klientov v srdci Vinohradov v Prahe.</strong></p>
-              <p>Zároveň mi je cťou byť súčasťou vzdelávacej akadémie ALMAF BEAUTY a predávať expertné skúsenosti aj kolegyniam v branži. </p>
+                Celý můj život je propojen s krásou a péčí o pleť. <strong>Beauty oblasti</strong> se věnuji přes 20 let a postupně jsem vytvořila jedinečný přístup, kombinující rozsáhlé zkušenosti, prvotřídní produkty a inovativní techniky. </p>
+              <p>Kosmetické procedury doplňuji o <strong>autentické rituály</strong>, což napomáhá maximalizovat požitek z času věnovaného sobě. S klienty zároveň pracuji <strong>komplexně</strong> – od konzultace, přes individuální péči o pleť podle stavu pokožky, potřeby a sezónnosti až po motivaci k budování jejich vlastních (a správných) návyků. </p>
+              <p>Kariéru jsem budovala v renomovaných kosmetických salonech na Slovensku a v Česku. Podílela jsem se na velkých projektech, zaškolování týmů a vytváření nových konceptů péče o pleť. Získala jsem certifikaci různých oblastí péče o pleť a vizážistiky. Léta jsem působila jako make-up artistka: líčila slovensko-český showbyznys, modelky na soutěžích krásy, fashion weecích a jiných významných příležitostech. </p>
+              <p><strong>Dnes se starám o své ctěné klienty v srdci Vinohradů v Praze.</strong></p>
+              <p>Zároveň mi je ctí být součástí vzdělávací akademie ALMAF BEAUTY a prodávat expertní zkušenosti i kolegyním v branži. </p>
               <p class="ann-signature-dark">
                 <img src="/img/signature.png" alt="Tina Poda" />
               </p>

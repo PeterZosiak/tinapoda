@@ -10,7 +10,7 @@
       </div>
       <div class="row">
         <div class="col-12">
-          <p class="mb-1 p-3 text-center">{{ description }} <br></p>
+          <p class="mb-1 p-3 text-center" v-html="description"></p>
           <p class="text-center"><span class="price">{{ price }}</span> / <span class="time">{{ time }}</span></p>
         </div>
       </div>

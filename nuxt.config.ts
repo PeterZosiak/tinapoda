@@ -44,9 +44,8 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      link: [{ rel: 'stylesheet', href: 'https://static.fontawesome.com/css/fontawesome-app.css' }],
       htmlAttrs: {
-        lang: 'sk',
+        lang: 'cs',
       },
       charset: 'utf-8',
     }

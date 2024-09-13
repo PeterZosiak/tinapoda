@@ -28,9 +28,9 @@ import Services from '~/components/services.vue'
           <div class="ann-about-info">
             <h1>Tina Poda</h1>
             <h3>Beauty expert na Krásu</h3>
-            <p class="para">Celý môj život je prepojený s krásou a starostlivosťou o pleť. Beauty oblasti sa venujem cez 20 rokov a postupne som vytvorila jedinečný prístup, kombinujúci rozsiahle skúsenosti, prvotriedne produkty a inovatívne techniky.</p>
+            <p class="para">Celý můj život je propojen s krásou a péčí o pleť. Beauty oblasti se věnuji přes 20 let a postupně jsem vytvořila jedinečný přístup, kombinující rozsáhlé zkušenosti, prvotřídní produkty a inovativní techniky.</p>
             <p class="ann-signature-dark">
-              <nuxt-link to="/o-mne" class="ann-btn"> Viac
+              <nuxt-link to="/o-mne" class="ann-btn"> Více
                 <!-- <img src="/img/signature.png" alt="Tina Poda" /> -->
               </nuxt-link>
             </p>
@@ -46,15 +46,13 @@ import Services from '~/components/services.vue'
 
 useHead({
   title: 'Tina Poda - Beauty expert na Krásu',
-  description: 'Kozmetické procedúry a autentické rituály, ktoré napomáha maximalizovať pôžitok z času venovaného sebe. Váš Beauty expert na Krásu, už 20 rokov.',
-  image: '/img/portraits/1.jpg',
+  description: 'Kosmetické procedury a autentické rituály, které napomáhá maximalizovat požitek z času věnovaného sobě. Váš Beauty expert na Krásu, již 20 let.', image: '/img/portraits/1.jpg',
   url: 'https://tinapoda.beauty/',
 })
 
 useSeoMeta({
   title: 'Tina Poda - Beauty expert na Krásu',
-  description: 'Kozmetické procedúry a autentické rituály, ktoré napomáha maximalizovať pôžitok z času venovaného sebe. Váš Beauty expert na Krásu, už 20 rokov.',
-  image: '/img/portraits/1.jpg',
+  description: 'Kosmetické procedury a autentické rituály, které napomáhá maximalizovat požitek z času věnovaného sobě. Váš Beauty expert na Krásu, již 20 let.', image: '/img/portraits/1.jpg',
   url: 'https://tinapoda.beauty/',
 })
 

@@ -78,7 +78,7 @@ h6 {
     font-family: "Montserrat", sans-serif;
     color: #1B1B1B;
     line-height: 1.5em;
-    margin: 0 0 20px;
+    margin: 0 0 0px;
     font-weight: 700;
 }
 
@@ -861,6 +861,10 @@ button {
 
 
 /* *** 07. Services style *** */
+.service-logo {
+    max-width: 350px;
+}
+
 
 .service-delimiter {
     border-bottom: 5px dotted #e52e71;
@@ -1874,6 +1878,10 @@ span.user {
 /*** 16. Media Query ***/
 
 @media (max-width: 1024px) {
+    .service-logo {
+        max-width: 350px;
+    }
+
     .ann-portfolio-wrap {
         padding-left: 20px;
     }
@@ -1952,6 +1960,10 @@ span.user {
 }
 
 @media all and (max-width: 767px) {
+    .service-logo {
+        max-width: 100%;
+    }
+
     h2 {
         font-size: 24px;
     }
