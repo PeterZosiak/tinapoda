@@ -9,13 +9,13 @@ import Services from '~/components/services.vue'
         <div class="d-flex align-items-center w-100">
           <div class="mx-auto ann-profile-inner">
             <!-- <h2 class="headline">TINA PODA<span>Beauty expert na Krásu</span></h2> -->
-            <img src="/img/Tina_Poda.png" width="45%" alt="">
+            <img src="/img/Tina_Poda.webp" width="50%" alt="Tina Poda signature">
           </div>
         </div>
       </div>
       <!-- Carousel -->
       <div class="owl-carousel ann-main-slider">
-        <div class="slide-item" style="background-image: url(/img/portraits/1.jpg);"></div>
+        <div class="slide-item" style="background-image: url(/img/portraits/1.webp);"></div>
       </div>
     </div>
   </div>
