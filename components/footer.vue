@@ -18,7 +18,7 @@
         <div class="row">
           <div class="col-md-12 text-center">
             <div class="brand">
-              <img src="/img/logo-light.png" alt="Tina Poda" />
+              <img src="/img/logo-light.webp" alt="Tina Poda footer Logo" />
             </div>
           </div>
         </div>

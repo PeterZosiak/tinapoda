@@ -656,6 +656,10 @@ button {
     z-index: 1;
 }
 
+.ann-profile-inner img {
+    width: 50%;
+}
+
 .ann-main-slider .slide-item {
     background-size: cover;
     background-repeat: no-repeat;
@@ -1920,6 +1924,11 @@ span.user {
 }
 
 @media (max-width: 992px) {
+    .ann-profile-inner img {
+        width: 75%;
+
+    }
+
     .sm-padding {
         padding: 15px;
     }
@@ -1960,6 +1969,11 @@ span.user {
 }
 
 @media all and (max-width: 767px) {
+    .ann-profile-inner img {
+        width: 100%;
+
+    }
+
     .service-logo {
         max-width: 100%;
     }
@@ -2084,6 +2098,11 @@ span.user {
 }
 
 @media all and (max-width: 575px) {
+    .ann-profile-inner img {
+        width: 100%;
+
+    }
+
     .promo-content {
         text-align: center;
     }
@@ -2183,6 +2202,7 @@ span.user {
 
 
 .sidebar {
+    z-index: 9999;
     height: 100vh;
     width: 320px;
     background: #fff;

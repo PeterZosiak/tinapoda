@@ -7,7 +7,7 @@
           <!-- Logo -->
           <div class="col col-md-4 col-sm-6 ann-site-logo-wrap">
             <nuxt-link to="/" class="ann-site-logo">
-              <img src="/img/Tina_Poda_.webp" alt="Tina Poda" />
+              <img src="/img/logo-dark.webp" alt="Tina Poda Logo" />
             </nuxt-link>
           </div>
           <!-- Menu Burger -->

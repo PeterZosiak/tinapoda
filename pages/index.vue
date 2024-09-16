@@ -9,7 +9,7 @@ import Services from '~/components/services.vue'
         <div class="d-flex align-items-center w-100">
           <div class="mx-auto ann-profile-inner">
             <!-- <h2 class="headline">TINA PODA<span>Beauty expert na Krásu</span></h2> -->
-            <img src="/img/Tina_Poda.webp" width="50%" alt="Tina Poda signature">
+            <img src="/img/Tina_Poda.webp" alt="Tina Poda signature">
           </div>
         </div>
       </div>
@@ -43,6 +43,23 @@ import Services from '~/components/services.vue'
 </template>
 
 <script setup>
+
+
+import { onMounted, onUnmounted } from 'vue';
+
+onMounted(() => {
+  const logoElement = document.querySelector('.ann-site-logo');
+  if (logoElement) {
+    logoElement.style.display = 'none';
+  }
+});
+
+onUnmounted(() => {
+  const logoElement = document.querySelector('.ann-site-logo');
+  if (logoElement) {
+    logoElement.style.display = 'block';
+  }
+});
 
 useHead({
   title: 'Tina Poda - Beauty expert na Krásu',
