@@ -19,7 +19,7 @@
               <p><strong>Dnes se starám o své ctěné klienty v srdci Vinohradů v Praze.</strong></p>
               <p>Zároveň mi je ctí být součástí vzdělávací akademie ALMAF BEAUTY a prodávat expertní zkušenosti i kolegyním v branži. </p>
               <p class="ann-signature-dark">
-                <img src="/img/signature.png" alt="Tina Poda" />
+                <img src="/img/logo-dark.png" alt="Tina Poda" />
               </p>
             </div>
           </div>

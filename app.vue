@@ -1,10 +1,10 @@
 <template>
-
   <div>
     <NuxtLayout>
       <SpeedInsights />
       <Header></Header>
       <NuxtPage />
+      <CookieControl locale="cs" />
       <Footer></Footer>
     </NuxtLayout>
   </div>

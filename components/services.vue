@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-md-6 offset-md-3 text-center mb-40">
             <h2>Portfolio</h2>
-            <p>Moje služby zahrnují komplexní zážitková ošetření pleti, chemické peelingy, příležitostné fashion líčení a školení pro kosmetičky.</p>
+            <p>Mé služby zahrnují komplexní kosmetické a zážitkové ošetření pleti, chemické peelingy, líčení a školení pro Kosmetičky.</p>
           </div>
         </div>
         <div class="row">
@@ -16,7 +16,7 @@
                 <img src="/img/ritualy.webp" alt="Tina Poda - PHYRIS rituals" />
                 <div class="text2">
                   <h3>PHYRIS rituals</h3>
-                  <p>PHYRIS rituály a zážitková ošetření</p>
+                  <p>PHYRIS rituály a kosmetické ošetření</p>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>

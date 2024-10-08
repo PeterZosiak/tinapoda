@@ -28,17 +28,50 @@
           </div>
           <div class="col-md-6 col-sm-12">
             <h2 class="mb-5 text-center">Omlazení a hydratace</h2>
-            <ServiceItem title="AQUActive HYALURON intensive" price="2.490,-Kč" time="90 min" description="Toto jedinečné ošetření pleti s pěti druhy kyseliny hyaluronové je navrženo pro ženy, které touží po účinné a intenzivní hydrataci, spojené s luxusem smyslového zážitku. Ošetření zahrnuje autorskou masáž od Tiny Pody, která umocní celkový pocit relaxace a péče.
-<br>
-Díky revoluční složce HYDRO-BOOST, která okamžitě zklidňuje a hydratuje i tu nejsušší pleť, bude vaše pokožka okamžitě svěží, vyhlazená a mladistvá. Výsledkem je viditelně pevnější a vyplá pleť bez jemných vrásek – dokonale připravená zazářit.
+            <ServiceItem title="AQUActive HYALURON intensive" price="2.490,-Kč / 90 min" price2="3.200,-Kč / 120 min Ritual zážitkové ošetření" description="Tohle unikátní ošetření pleti s 5 druhmi kyseliny hyaluronové je zážitkem pro všechny zákazníky s přáním zažít účinnou a maximální hydratační péči,ale zároveň i luxus smyslného okamžiku s autorskou masáží Tina Poda”
+Díky nové složce HYDRO-BOOST doslova pri žíznivou pleť Vaše pokožka okamžite pocítí intenzivní hydrataci. <br>
+Výsledkem je maximálně vyhlazená kůže,viditelně omlazená ,vyplá a bez známek jemných vrásek. <br><br>
+<span class='strong-b'>Tohle zážitkové ošetření je propojené masážními pomůckami,které působí na všechny akupresurní body a zmysly”,speciální masáž štetcami,masáž rúk.</span>
 " />
 
-            <ServiceItem title="RETINOL TRIPLE A" price="2.490,-Kč" time="90 min" description="Ošetření s inovativní trojitou formulí Retinolu v nejvyšší možné koncentraci je navrženo pro dosažení maximálního protivráskového účinku na pleť i dekolt. Toto jedinečné ošetření s vysokou koncentrací vitaminu A, známého také jako „vitamín mládí,“ je ideální volbou pro ženy, které chtějí bojovat proti vráskám a ztrátě elasticity. Výsledkem je pevnější, hladší a viditelně mladší pleť." />
+            <ServiceItem title="RETINOL TRIPLE A" price="2.490,-Kč / 90 min" description="Ošetření s inovativním trojitým Retinolem v nejvyšší možné koncentraci pro dosažení vysoce účinného protivráskového efektu pleti a dekoltu.
+Tohle unikátní ošetření s nejvyšší možnou koncentraci vitaminu A ( vitamín mládí) je vynikající v boji s vráskami a ztrátou elasticity pleti." />
 
-            <ServiceItem title="FOREST Ritual" price="2.790,-Kč" time="90 min" description="Vydejte se na „procházku lesem“ s ošetřením PHYRIS a pleťovou řadou FoRest. Toto smyslové rituálové ošetření vás okouzlí vůní lesa, muzikoterapií, dotekem a speciální masáží, která vám umožní na chvíli vypnout a odpočinout si od hektického světa. <br>Výsledkem bude nejen krásná, rozzářená a odpočinutá pleť, ale také zklidněná mysl. Silně okysličená pleť získá nový nádech a vitalitu, což doslova probudí vaši pleť k životu." />
+            <ServiceItem title="FOREST Ritual" price="2.790,-Kč / 90 min" description="Poďte zažít procházku lesem” v ošetření PHYRIS s pleťovou řadou FoRest.<br>
+Tohle smyslné Rituálové ošetření Vaší pleti, Vás nadchne zážitkem vůní lesa,muzikoterapie, dotykem a speciální masáží, která Vám dovolí vypnout od okolitého uponáhlaného světa.<br>
+Výsledkem bude krásná,rozzářená a odpočinutá nejen pleť ale i mysl silné okysličená plet,doslova dam nadychnut pletov bunkam.<br>
+Ritual Forest je propojení muzikoterapie,zážitku,účinku a péče. <br>
+Při tomhle kosmetickém zážitku jsou použité i masážní pomůcky Guasha ,ledová masáž očního okolí žlutými tyčinkami a masáž štetcami." />
 
-            <ServiceItem title="SEE CHANGE - COLAGEN Omlazení" price="2.790,-Kč" time="90 min" description="Široké spektrum mořských řas v tomto ošetření zklidňuje pokožku, podporuje její regeneraci a poskytuje intenzivní hydrataci. Unikátní složení produktů See Change v tomto ošetření výrazně zlepšuje pevnost pokožky a podporuje syntézu kolagenu. Ošetření je ideální jak pro letní období (pro hydrataci), tak i pro zimu, kdy je obohaceno o mořský kolagen s vitamínem C. Výsledkem je pevná, rozzářená a zdravě vypadající pleť." />
-            <ServiceItem title="PERFECT AGE - omlazující ošetření s kmeňovými buňkami" price="2.790,-Kč" time="90 min" description="Toto jedinečné Anti-Aging ošetření je ideální prevencí pro ženy i muže, kteří chtějí dosáhnout nadčasové krásy a mladistvého vzhledu pleti. Vysoce účinné látky, včetně kmenových buněk z rozkvetlé jabloně, mandlí, peptidů a liftingové masáže, okamžitě zjemňují, omlazují a vypínají vaši pleť, dodávají jí svěžest a pevnost." />
+            <ServiceItem title="SPICEup  Ritual Intense" price="2.790,-Kč /  90 min" description="Tohle podzimní ,teplé a vícesmyslové SPA rituál ošetření s tajemnou sílou exotického koření dodá Vaši pleti Vitalitu,Energii a Mládí” <br>
+Během rituálu je pokožka ošetřována speciální masáží,která podporuje mikrocirkulaci a zanechá pleť vypnutou ,hydratovanou a plnou energie.<br>
+SPA ritual SPICE up je navržen pro ty,kteří touží po dokonalém balancu mezi profesionální péči o pleť a smyslovým zážitkem.<br>
+Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vyživenou.<br>
+" />
+            <ServiceItem title="SEE CHANGE- COLAGEN Omlazení" price="2.790,-Kč / 90 min" description="Široké spektrum mořských řas v tomhle ošetření zklidňují pokožku,zvyšují její regeneraci a intenzivně hydratuje.<br>
+Širokospektrá lenost produktov See Change” v tomhle unikátním ošetření ,nám dovoluje posunout pevnost a syntézu kolagenu v kůži.<br>
+Ošetření, je jak oblíbené v létě( hydratace) , tak i v zimních obdobích,kde je použitý mořský kolagen s vitamínem C.<br>
+Pevnost a rozzáření kůže”
+" />
+
+            <ServiceItem title="“PERFECT AGE” omlazující ošetření s kmenovými buňkami" price="2.790,-Kč / 90 min" description="Tohle unikátní Anti-Aging ošetření je vynikající prevence pokožky pro všechny ženy i muže,který by chtěli dosáhnout nadčasovou krásu pro sebe i svoji pleť.
+Vysoce účinné látky v kombinaci s kmenových buněk z rozkvetlé jabloně ,mandlí,peptidov  a liftingovou masáží,okamžitě zjemňujú ,omlazujú a vypínajú Vaši pleť.
+"></ServiceItem>
+
+            <ServiceItem title="LUXESSE GLOW TAHITS PEARLS  “RITUAL”" price="3.700,-Kč / 120 min" description="Exkluzivní VIP ošetření propojené do Rituálu Tina Poda” Vás nadchne už od prvního nádechu vůně řady Luxesse” <br>
+Tenhle Rituál zahrnuje luxusní produkty nejvyšší řady Luxesse Phyris.<br>
+Napojení terapeuta s klientem a zážitkové ošetření plné masážních tahů nejen rukama,ale i štetcami,zlatými masážními lžícemi a oční bodovou masáž kovovými tyčinkami.  <br>
+sklenička pri prichode <br>
+Třísložkový efekt v boji proti stárnutí dosáhne okamžité výsledky, které dokážou působit v hlubších vrstvách pleti.<br>
+Aktivní Černá perla z jižního moře / Tahiti / 
+"></ServiceItem>
+
+            <ServiceItem title="ANTI pigment “RITUAL” MANSARD”" price="2.790,-Kč / 90 min" description="Krása přímo z Paříže”
+Vysoce účinné antipigmentační ošetření a Ritual” kde sa zameříme na odstranění  existujících pigmentů a zabraníme tvorbě nových pigmentových skvr.
+Dopřejte Vaší pleti a mysli odpočinek a výsledkem bude Vaše pleť  
+celkově rozzářená a přesvětlená”
+Opakováním tyhle skvělé procedury, bude výsledný efekt Vaší pleti ještě silnější dlouhodobější.   
+"></ServiceItem>
 
           </div>
         </div>

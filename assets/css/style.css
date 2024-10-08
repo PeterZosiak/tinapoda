@@ -153,6 +153,11 @@ strong {
     color: #e52e71;
 }
 
+.strong-b {
+    font-weight: 700;
+    color: black;
+}
+
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
     color: #888 !important;
@@ -729,6 +734,8 @@ button {
     margin: 0;
 }
 
+
+
 .ann-about-info h1 {
     font-family: "AltaLight";
     color: #fff;
@@ -1209,11 +1216,11 @@ span.user {
     line-height: 1.5em;
 }
 
-.ann-blog-post .ann-blog-content .ann-post-meta {
+.ann-post-meta {
     color: #e52e71;
 }
 
-.ann-blog-post .ann-blog-content .ann-post-meta:hover {
+.ann-post-meta:hover {
     color: #1b1b1b;
 }
 
@@ -1972,6 +1979,22 @@ span.user {
     .ann-profile-inner img {
         width: 100%;
 
+    }
+
+    .ann-about-info {
+        margin-top: 80px;
+    }
+
+    .img-wrapper::after {
+        content: '';
+        width: 95%;
+        position: absolute;
+        top: -1%;
+        bottom: -1%;
+        left: 2%;
+        background-image: url(/_nuxt/assets/css/img/dots.png);
+        background-repeat: repeat;
+        z-index: 1;
     }
 
     .service-logo {

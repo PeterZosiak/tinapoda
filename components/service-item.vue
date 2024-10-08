@@ -11,7 +11,9 @@
       <div class="row">
         <div class="col-12">
           <p class="mb-1 p-3 text-center" v-html="description"></p>
-          <p class="text-center"><span class="price">{{ price }}</span> / <span class="time">{{ time }}</span></p>
+          <p class="text-center"><span class="price"><strong>{{ price }}</strong></span> <br><span class="time"><strong>{{ price2 }}</strong></span></p>
+          <p class="text-center"> <nuxt-link to="/kontakt" class="text-center ann-post-meta">Objednat se <span class="ti-shift-right-alt"></span></nuxt-link></p>
+
         </div>
       </div>
     </div>
@@ -28,9 +30,9 @@ export default {
       type: String,
       required: true
     },
-    time: {
+    price2: {
       type: String,
-      required: true
+      required: false
     },
     description: {
       type: String,

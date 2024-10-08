@@ -17,7 +17,7 @@ export default defineNuxtConfig({
     },
   }], '@vesp/nuxt-fontawesome', ["@nuxtjs/google-fonts", {
     families: { 'Cormorant Garamond': '100..900', Montserrat: true }
-  }], "@nuxt/image", "nuxt-mail", "nuxt-gtag", "@nuxtjs/sitemap"],
+  }], "@nuxt/image", "nuxt-mail", "nuxt-gtag", "@nuxtjs/sitemap", '@dargmuesli/nuxt-cookie-control', '@dargmuesli/nuxt-cookie-control'],
   image: {
     provider: "ipx"
   },
