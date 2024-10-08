@@ -2420,6 +2420,8 @@ input:user-valid {
     font-family: "Cormorant Garamond", serif;
     font-size: 22px;
     color: white;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 1px #75757580;
 }
 
 .item img {

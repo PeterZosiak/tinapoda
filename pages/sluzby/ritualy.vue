@@ -48,6 +48,13 @@ Během rituálu je pokožka ošetřována speciální masáží,která podporuje
 SPA ritual SPICE up je navržen pro ty,kteří touží po dokonalém balancu mezi profesionální péči o pleť a smyslovým zážitkem.<br>
 Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vyživenou.<br>
 " />
+
+
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-sm-12">
             <ServiceItem title="SEE CHANGE- COLAGEN Omlazení" price="2.790,-Kč / 90 min" description="Široké spektrum mořských řas v tomhle ošetření zklidňují pokožku,zvyšují její regeneraci a intenzivně hydratuje.<br>
 Širokospektrá lenost produktov See Change” v tomhle unikátním ošetření ,nám dovoluje posunout pevnost a syntézu kolagenu v kůži.<br>
 Ošetření, je jak oblíbené v létě( hydratace) , tak i v zimních obdobích,kde je použitý mořský kolagen s vitamínem C.<br>
@@ -72,6 +79,13 @@ Dopřejte Vaší pleti a mysli odpočinek a výsledkem bude Vaše pleť
 celkově rozzářená a přesvětlená”
 Opakováním tyhle skvělé procedury, bude výsledný efekt Vaší pleti ještě silnější dlouhodobější.   
 "></ServiceItem>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <div class="img-wrapper mb-5 mt-5">
+              <img class="ann-about-img img-fluid" src="/img/s112.webp" alt="Tina Poda - Ritualy">
+            </div>
+
+
 
           </div>
         </div>
