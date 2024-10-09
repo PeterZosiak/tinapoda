@@ -10,6 +10,8 @@
       <nav class="sidebar__menu">
         <nuxt-link aria-label="ÚVOD" @click="checked = !checked" to="/">ÚVOD</nuxt-link>
         <nuxt-link aria-label="TINA PODA" @click="checked = !checked" to="/o-mne">TINA PODA</nuxt-link>
+        <nuxt-link aria-label="RITUÁLY" @click="checked = !checked" to="/sluzby/ritualy">RITUÁLY</nuxt-link>
+        <nuxt-link aria-label="PEELINGY" @click="checked = !checked" to="/sluzby/peelingy">PEELINGY</nuxt-link>
         <nuxt-link aria-label="KONTAKT" @click="checked = !checked" to="/kontakt">KONTAKT</nuxt-link>
       </nav>
       <label for="menu-control" class="sidebar__close"></label>

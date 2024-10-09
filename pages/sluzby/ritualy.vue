@@ -53,6 +53,15 @@ Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vy�
           </div>
         </div>
 
+
+      </div>
+    </section>
+
+    <AdditionalServices />
+
+    <section class="ann-portfolio-page-section">
+      <div class="container">
+
         <div class="row">
           <div class="col-md-6 col-sm-12">
             <ServiceItem title="SEE CHANGE- COLAGEN Omlazení" price="2.790,-Kč / 90 min" description="Široké spektrum mořských řas v tomhle ošetření zklidňují pokožku,zvyšují její regeneraci a intenzivně hydratuje.<br>
@@ -93,65 +102,6 @@ Opakováním tyhle skvělé procedury, bude výsledný efekt Vaší pleti ješt�
         <div class="row">
           <div class="m-5"></div>
         </div>
-
-        <!-- <div class="row">
-          <div class="col">
-
-            <ServiceItem title="AQUActive HYALURON intensive" price="2.490,-Kč" time="90 min" description="Tohle unikátní ošetření pleti s 5 druhmi kyseliny hyaluronové je zážitkem pro všechny zákazníky s přáním zažít účinnou a maximální hydratační péči,ale zároveň i luxus smyslného okamžiku s autorskou masáží Tina Poda”
-Díky nové složce HYDRO-BOOST doslova pri žíznivou pleť Vaše pokožka okamžite pocítí intenzivní hydrataci.
-Výsledkem je maximálně vyhlazená kůže,viditelně omlazená ,vyplá a bez známek jemných vrásek.
-" />
-
-            <ServiceItem title="RETINOL TRIPLE A" price="2.490,-Kč" time="90 min" description="Ošetření s inovativním trojitým Retinolem v nejvyšší možné koncentraci pro dosažení vysoce účinného protivráskového efektu pleti a dekoltu.
-Tohle unikátní ošetření s nejvyšší možnou koncentraci vitaminu A ( vitamín mládí) je vynikající v boji s vráskami a ztrátou elasticity pleti." />
-
-            <ServiceItem title="FOREST Ritual" price="2.790,-Kč" time="90 min" description="Poďte zažít procházku lesem” v ošetření PHYRIS s pleťovou řadou FoRest”
-Tohle smyslné Rituálové ošetření Vaší pleti ,Vás nadchne zážitkem vůní lesa,muzikoterapie ,dotykem a speciální masáží,která Vám dovolí vypnout od okolitého uponáhlaného světa.
-Výsledkem bude krásná,rozzářená a odpočinutá nejen pleť ,ale i mysl” silné okysličená plet,doslova dam nadychnut pletov bunkam." />
-
-
-
-
-          </div>
-          <div class="col">
-            <div class="img-wrapper">
-              <img class="ann-about-img" src="/img/s112.png" alt="">
-            </div>
-
-          </div>
-        </div> -->
-
-        <!-- <div class="row gallery-items">
-          <div class="col-md-6 single-item hair">
-            <div class="gallery-wrap">
-              <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="gallery img" />
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 single-item wedding">
-            <div class="gallery-wrap">
-              <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="gallery img" />
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 single-item hair">
-            <div class="gallery-wrap">
-              <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="gallery img" />
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 single-item wedding">
-            <div class="gallery-wrap">
-              <a href="/img/600x400.jpg" class="gallery-link img-popup vbox-item" data-gall="galleryimg">
-                <img src="/img/600x400.jpg" alt="gallery img" />
-              </a>
-            </div>
-          </div>
-        </div> -->
-
       </div>
     </section>
   </div>

@@ -3,7 +3,7 @@
     <div class="service-item mb-4 ">
       <div class="row">
         <div class="col">
-          <h4 class="text-center">{{ title }} </h4>
+          <h4 class="text-start px-3">{{ title }} </h4>
         </div>
       </div>
       <div class="row">

@@ -27,9 +27,9 @@
           </div>
 
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/ritualy">
+            <nuxt-link to="sluzby/peelingy">
               <div class="item e2">
-                <img src="/img/600x400.jpg" alt="Tina Poda - MEDICAL peelings" />
+                <img src="/img/peelingy.webp" alt="Tina Poda - MEDICAL peelings" />
                 <div class="text2">
                   <h3>MEDICAL peelings</h3>
                   <p>MEDICAL chemické peelingy</p>

@@ -120,6 +120,22 @@ ul {
     margin: 0;
 }
 
+ul.services {
+    list-style: none;
+}
+
+ul.services li {
+    margin-left: 30px;
+    padding: 5px 0px;
+}
+
+ul.services li::before {
+    content: "• ";
+    color: #e52e71;
+    font-size: 20px;
+    /* or whatever color you prefer */
+}
+
 p,
 li,
 a,
