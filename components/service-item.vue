@@ -4,18 +4,19 @@
       <div class="row">
         <div class="col">
           <h4 class="text-center">{{ title }} </h4>
-
         </div>
-        <!-- <div class="col-md-4 col-sm-12 float-end service-delimiter"><span class="float-end">{{ price }} <span>/ {{ time }}</span></span></div> -->
       </div>
       <div class="row">
         <div class="col-12">
-          <p class="mb-1 p-3 text-center" v-html="description"></p>
-          <p class="text-center"><span class="price"><strong>{{ price }}</strong></span> <br><span class="time"><strong>{{ price2 }}</strong></span></p>
-          <p class="text-center"> <nuxt-link to="/kontakt" class="text-center ann-post-meta">Objednat se <span class="ti-shift-right-alt"></span></nuxt-link></p>
-
+          <p class="mb-1 p-3 text-start" v-html="description"></p>
+          <p class="px-3 ">
+            <span class="price text-start"><strong>{{ price }}</strong></span>
+            <span v-if="price2" class="time"><br><strong>{{ price2 }}</strong></span>
+            <nuxt-link to="/kontakt" class="float-end ann-post-meta">Objednat se <span class="ti-shift-right-alt"></span></nuxt-link>
+          </p>
         </div>
       </div>
+      <hr>
     </div>
   </div>
 </template>
