@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="service-item mb-4 ">
+    <div class="service-item mb-4 px-3">
       <div class="row">
         <div class="col">
           <h4 class="text-start px-3">{{ title }} </h4>
@@ -16,7 +16,7 @@
           </p>
         </div>
       </div>
-      <hr>
+      <hr v-if="!isLast">
     </div>
   </div>
 </template>
@@ -38,6 +38,10 @@ export default {
     description: {
       type: String,
       required: true
+    },
+    isLast: {
+      type: Boolean,
+      required: false
     }
   }
 }

@@ -6,11 +6,10 @@
         <div class="row ann-about-inner">
           <div class="col-md-8 offset-md-2 text-center">
             <div class="ann-about-info">
-              <h1>Tina Poda</h1>
-              <h3>Beauty expert na Krásu</h3>
+              <h3>Krása tkví v detailech</h3>
               <p class="para">Všechny služby lze rozšířit o exkluzivní doplňkové procedury. Přizpůsobte si péči na míru s profesionálními extra službami pro maximální efekt a krásu</p>
               <p class="ann-signature-dark">
-                <nuxt-link to="/o-mne" class="ann-btn"> DOPLNKOVÉ SLUŽBY
+                <nuxt-link to="/o-mne" class="ann-btn"> DOPLŇKOVÉ SLUŽBY
                 </nuxt-link>
               </p>
             </div>

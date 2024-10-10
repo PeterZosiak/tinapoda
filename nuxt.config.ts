@@ -42,6 +42,14 @@ export default defineNuxtConfig({
     }
   },
 
+  cookieControl: {
+    isControlButtonEnabled: false,
+    locales: ['cs'],
+    localeTexts: {
+
+    }
+  },
+
   app: {
     head: {
       htmlAttrs: {

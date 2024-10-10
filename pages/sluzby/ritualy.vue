@@ -43,7 +43,7 @@ Výsledkem bude krásná,rozzářená a odpočinutá nejen pleť ale i mysl siln
 Ritual Forest je propojení muzikoterapie,zážitku,účinku a péče. <br>
 Při tomhle kosmetickém zážitku jsou použité i masážní pomůcky Guasha ,ledová masáž očního okolí žlutými tyčinkami a masáž štetcami." />
 
-            <ServiceItem title="SPICEup  Ritual Intense" price="2.790,-Kč /  90 min" description="Tohle podzimní ,teplé a vícesmyslové SPA rituál ošetření s tajemnou sílou exotického koření dodá Vaši pleti Vitalitu,Energii a Mládí” <br>
+            <ServiceItem is-last="true" title="SPICEup  Ritual Intense" price="2.790,-Kč /  90 min" description="Tohle podzimní ,teplé a vícesmyslové SPA rituál ošetření s tajemnou sílou exotického koření dodá Vaši pleti Vitalitu,Energii a Mládí” <br>
 Během rituálu je pokožka ošetřována speciální masáží,která podporuje mikrocirkulaci a zanechá pleť vypnutou ,hydratovanou a plnou energie.<br>
 SPA ritual SPICE up je navržen pro ty,kteří touží po dokonalém balancu mezi profesionální péči o pleť a smyslovým zážitkem.<br>
 Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vyživenou.<br>
@@ -82,7 +82,7 @@ Třísložkový efekt v boji proti stárnutí dosáhne okamžité výsledky, kte
 Aktivní Černá perla z jižního moře / Tahiti / 
 "></ServiceItem>
 
-            <ServiceItem title="ANTI pigment “RITUAL” MANSARD”" price="2.790,-Kč / 90 min" description="Krása přímo z Paříže”
+            <ServiceItem is-last="true" title="ANTI pigment “RITUAL” MANSARD”" price="2.790,-Kč / 90 min" description="Krása přímo z Paříže”
 Vysoce účinné antipigmentační ošetření a Ritual” kde sa zameříme na odstranění  existujících pigmentů a zabraníme tvorbě nových pigmentových skvr.
 Dopřejte Vaší pleti a mysli odpočinek a výsledkem bude Vaše pleť  
 celkově rozzářená a přesvětlená”
