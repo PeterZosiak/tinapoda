@@ -725,7 +725,7 @@ button {
 .ann-about-section-home {
     position: relative;
     background: #1b1b1b;
-    padding: 80px 0;
+    padding: 45px 0;
 }
 
 .ann-about-content {}
@@ -1995,10 +1995,6 @@ span.user {
     .ann-profile-inner img {
         width: 100%;
 
-    }
-
-    .ann-about-info {
-        margin-top: 80px;
     }
 
     .img-wrapper::after {

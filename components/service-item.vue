@@ -8,7 +8,7 @@
       </div>
       <div class="row">
         <div class="col-12">
-          <p class="mb-1 p-3 text-start" v-html="description"></p>
+          <p class="mb-1 p-3 text-start" v-if="description" v-html="description"></p>
           <p class="px-3 ">
             <span class="price text-start"><strong>{{ price }}</strong></span>
             <span v-if="price2" class="time"><br><strong>{{ price2 }}</strong></span>

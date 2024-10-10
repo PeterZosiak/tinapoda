@@ -59,7 +59,7 @@ Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vy�
 
     <AdditionalServices />
 
-    <section class="ann-portfolio-page-section">
+    <section class="mt-5">
       <div class="container">
 
         <div class="row">
