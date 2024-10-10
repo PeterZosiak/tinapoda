@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Doplnkove sluzby -->
-    <section class="ann-about-section-home ann-about-inner-page bg-black">
+    <section class="ann-about-section-home ann-about-inner-page bg-black additional-services">
       <div class="container">
         <div class="row ann-about-inner">
           <div class="col-md-8 offset-md-2 text-center">
