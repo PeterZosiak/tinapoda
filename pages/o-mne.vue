@@ -24,8 +24,11 @@
             </div>
           </div>
         </div>
+        <hr>
       </div>
     </section>
+
+    <Services />
   </div>
 </template>
 
