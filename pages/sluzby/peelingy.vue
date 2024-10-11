@@ -27,7 +27,7 @@
             <ServiceItem title="SKIN RESULTS AHA “EXPERT" price="1.900,-Kč" description="Regulace tvorby mazu,40% AHA , 60% AHA kyseliny" />
             <ServiceItem title="DERMA CONTROL" price="2.200,-Kč" description="Mastní, aknózní a problematická pleť" />
             <ServiceItem title="PRX-T33 Biorevitalizace" price="2.300,-Kč" description="Revitalizační peeling nové generace-obličej" />
-            <ServiceItem is-last="true" title="PRX-T33 Biorevitalizace" price="3.700,-Kč" description="Revitalizační peeling nové generace. Obličej, krk, dekolt" />
+            <ServiceItem :is-last="true" title="PRX-T33 Biorevitalizace" price="3.700,-Kč" description="Revitalizační peeling nové generace. Obličej, krk, dekolt" />
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@ Inovativní neinvazivní procedura s aktivním karbonem( uhlím),velmi vzácné 
 Tahle procedura je velmi vhodná i před jakoukoliv událostí s efektem silného lifting-u a omlazení pleti!
 " />
             <ServiceItem title="DERMAPEN - vyhlazení textury ,omlazení pleti" price="2.700,- Kc obličej" price2="3.500,- Kc obličej + dekolt" description="Kombinace mikrojehličkování s nejpokročilejší séry na trhu s kyselinou Hyaluronovou." />
-            <ServiceItem is-last="true" title="DERMAPLANING" price="700,- Kč" price2="1.200,-Kč" description="Manuální technika exfoliace pokožky a odstranění chloupků ( nelze provést ako samostatní službu)" />
+            <ServiceItem :is-last="true" title="DERMAPLANING" price="700,- Kč" price2="1.200,-Kč" description="Manuální technika exfoliace pokožky a odstranění chloupků ( nelze provést ako samostatní službu)" />
           </div>
           <div class="col-md-6 col-sm-12">
 

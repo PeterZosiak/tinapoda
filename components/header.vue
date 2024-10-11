@@ -19,6 +19,26 @@
     </header>
   </div>
 </template>
-<script>
-import SidebarMenu from '~/components/sidebar-menu.vue'
+<script setup>
+import { onMounted, onUnmounted } from 'vue';
+
+onMounted(() => {
+  window.addEventListener('scroll', handleScroll);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', handleScroll);
+});
+
+const handleScroll = () => {
+  console.log('scrolling');
+  const scroll = window.scrollY;
+  const blackElement = document.querySelector('header');
+  if (scroll > 50) {
+    blackElement.classList.add('nav-scrolled');
+  } else {
+    blackElement.classList.remove('nav-scrolled');
+  }
+};
+
 </script>

@@ -42,11 +42,13 @@
             </nuxt-link>
           </div>
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/ritualy">
+            <nuxt-link to="sluzby/doplnkove-sluzby">
               <div class="item e2">
-                <img src="/img/600x400.jpg" alt="Tina Poda - Fashion makeup" />
+                <img src="/img/doplnkove.webp" alt="Tina Poda - Doplňkové služby" />
                 <div class="text2">
-                  <h3>Fashion makeup</h3>
+                  <h3>Doplnkové služby</h3>
+                  <p>DEPILACE a OBOČÍ
+                  </p>
                 </div>
                 <div class="line top"></div>
                 <div class="line bottom"></div>
@@ -56,11 +58,11 @@
             </nuxt-link>
           </div>
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/ritualy">
+            <nuxt-link to="sluzby/kurzy">
               <div class="item e2">
                 <img src="/img/kurzy.webp" alt="Tina Poda - Kurzy" />
                 <div class="text2">
-                  <h3>Kurzy</h3>
+                  <h3>Kurz DERMAPLANING </h3>
                   <p>Osobní kurzy líčení</p>
                 </div>
                 <div class="line top"></div>

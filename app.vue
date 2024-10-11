@@ -11,10 +11,6 @@
 </template>
 
 <script>
-import Header from '~/components/header.vue'
-import Footer from '~/components/footer.vue'
-import { SpeedInsights } from '@vercel/speed-insights/nuxt';
-
 useHead({
 
   link: [

@@ -20,7 +20,7 @@
             <div class="mb-2"></div>
             <ServiceItem title="Waxing záda celá" price="1.090,-Kč" />
             <ServiceItem title="Waxing nohy po kolena" price="590,-Kč" />
-            <ServiceItem is-last="true" title="Waxing celé nohy" price="890,-Kč" />
+            <ServiceItem :is-last="true" title="Waxing celé nohy" price="890,-Kč" />
 
             <div class="px-3">
               <h3>DEPILACE CUKROVOU PASTOU
@@ -32,7 +32,7 @@
             <ServiceItem title="Kotlety" price="od 250 do 450,-Kč" />
             <ServiceItem title="Celý obličej" price="700,-Kč" />
             <ServiceItem title="Podpaží" price="490,-Kč" />
-            <ServiceItem is-last="true" title="Brazilská depilace" price="1.400,-Kč" />
+            <ServiceItem :is-last="true" title="Brazilská depilace" price="1.400,-Kč" />
 
             <div class="px-3">
               <h3>OBOČÍ
@@ -41,7 +41,7 @@
             <div class="mb-2"></div>
             <ServiceItem title="Barvení obočí" price="250,-Kč" />
             <ServiceItem title="Úprava obočí" price="od 300 do 600,-Kč" />
-            <ServiceItem is-last="true" title="Laminace obočí s barvením" price="1.290,-Kč" />
+            <ServiceItem :is-last="true" title="Laminace obočí s barvením" price="1.290,-Kč" />
           </div>
         </div>
       </div>
