@@ -19,7 +19,7 @@
                 Zlepší se tonus a elasticita kůže,zjemní se vrásky a jizvy po akné,výsledkem čeho je hladká a rozzářená pokožka připravena vstřebávat následné produkty.
                 Následné ošetření zvýší absorbaci sér a krémov na maximum
 
-                <span class="strong-b">Dermaplaning je úplně bezpečný,pokud se provede správně.</span>
+                <span class="strong-b">Dermaplaning je úplně bezpečný, pokud se provede správně.</span>
                 Nevyžaduje žádnou dobu na rekonvalescenci.
               </p>
               <p>Ošetření je skvěle kombinovatelné a dopřeje Vaším klientům nádherný výsledek za minimální náklady.</p>
@@ -30,6 +30,19 @@
                 </li>
                 <li>Sezónní změny a vplyv dermaplaningu na pokožku.</li>
                 <li>Produkty a postupy před a po Dermaplaningu.
+                </li>
+              </ul>
+              <p><strong>Po tomhle kurze můžeš hned začít pracovat na svých klientech,kde uvidíš okamžité výsledky s pleti klienta.</strong></p>
+              <h4>Pro koho je kurz DERMAPLANING určen?
+              </h4>
+              <ul>
+                <li>Tenhle kurz je určen pro všechny kosmetičky začínající a stávající.
+                </li>
+                <li>Pracuje se s kosmetikou <strong>PHYRIS a AHA kyselinami</strong>.</li>
+                <li>Délka kurzu 4 hodiny, kde se nejdříve probere celá teorie DERMAPLANING,protokoly s čím můžete tuhle službu kombinovat,Tipy ode mně a přesný návod šitý na míru pro Tebe v Tvojom salone.
+                </li>
+                <li>Následně se pracuje na modelce.
+                  (Je zapotřebí před kurzem oznámit,zda máte svou modelku,nebo ji mám zabezpečit ja)
                 </li>
               </ul>
             </div>
