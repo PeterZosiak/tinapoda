@@ -37,7 +37,7 @@ Výsledkem je maximálně vyhlazená kůže,viditelně omlazená ,vyplá a bez z
             <ServiceItem title="RETINOL TRIPLE A" price="2.490,-Kč / 90 min" description="Ošetření s inovativním trojitým Retinolem v nejvyšší možné koncentraci pro dosažení vysoce účinného protivráskového efektu pleti a dekoltu.
 Tohle unikátní ošetření s nejvyšší možnou koncentraci vitaminu A ( vitamín mládí) je vynikající v boji s vráskami a ztrátou elasticity pleti." />
 
-            <ServiceItem title="FOREST Ritual" price="2.790,-Kč / 90 min" description="Poďte zažít procházku lesem” v ošetření PHYRIS s pleťovou řadou FoRest.<br>
+            <ServiceItem title="FOREST Ritual" price="2.790,-Kč / 90 min" description="Poďte zažít procházku lesem” v ošetření PHYRIS s pleťovou řadou FoRest.
 Tohle smyslné Rituálové ošetření Vaší pleti, Vás nadchne zážitkem vůní lesa,muzikoterapie, dotykem a speciální masáží, která Vám dovolí vypnout od okolitého uponáhlaného světa.<br>
 Výsledkem bude krásná,rozzářená a odpočinutá nejen pleť ale i mysl silné okysličená plet,doslova dam nadychnut pletov bunkam.<br>
 Ritual Forest je propojení muzikoterapie,zážitku,účinku a péče. <br>
