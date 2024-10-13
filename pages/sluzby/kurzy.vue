@@ -11,8 +11,8 @@
               </div>
               <div class="ann-page-content mb-20">
                 <h2>Kurz DERMAPLANING</h2>
-                <h4><strong>Tenhle kurz DERMAPLANING -u je určen pro kosmetičky,které mají zájem posunout své znalosti o úroveň výš
-                  </strong></h4>
+                <h4 class="strong-b">Tenhle kurz DERMAPLANING -u je určen pro kosmetičky,které mají zájem posunout své znalosti o úroveň výš
+                </h4>
               </div>
 
               <p class="jumbotron">V zahraničí je tahle metoda jedna z nejzákladnějších a nejoblíbenějších ošetření, které předchází většině dalších kosmetických ošetření a je základem starostlivosti o pleť.
@@ -57,9 +57,8 @@
                     </li>
                   </ul>
                   <h4 class="mt-5">
-                    Cena kurzu DERMAPLANING
+                    Cena kurzu DERMAPLANING - <span><strong>5.500,-Kč / 4 hodiny</strong></span>
                   </h4>
-                  <p class=""><strong>5.500,-Kč / 4 hodiny</strong></p>
                   <p>V ceně kurzu jsou:</p>
                   <ul class="services">
                     <li>Vytisklé podklady s veškerými informacemi DERMAPLANING
@@ -72,7 +71,32 @@
                   </ul>
                 </div>
               </div>
+              <div class="row"></div>
+              <div class="row">
+                <div class="col-md-12 mt-5">
+                  <h3>Podmínky pro přihlášení na kurz
+                  </h3>
+                  <p class="mb-3">Prostřednictvím kontaktního formuláře uvedeného na moji web.stránce v sekci <nuxt-link to="/kontakt">KONTAKT</nuxt-link> uvádějte prosím celé jméno a telefonní číslo.
+                  </p>
+                  <p class="mb-3">Platba kurzu je převodem na bankovní účet, který bude veden v emailu,který obdržíte po zadání Vašich údajů. <br><br>
+                    Při platbě Vás poprosím do poznámky uvést: Vaše jméno,pod kterým jste se přihlásili na kurz. <br><br>
+                    Po závazném přihlášení a uhrazení kurzu Vám zpětně odešlu potvrzující email o potvrzení Vaši přihlášky. <br>
+                  </p>
+                  <p class="mb-3">Zrušení přihlášky na kurz a žádost o vrácení platby: Žádost o vrácení platby pouze písemně do emailu a to nejpozději 7 kalendářních dnů před konáním kurzem.
+                  </p>
+                  <p>Storno podmínky:</p>
+                  <ul class="services">
+                    <li>100% min 7 před zahájením kurzu
+                    </li>
+                    <li>50% v případě nemoci
+                    </li>
+                    <li>0% - 24 hod pred kurzu</li>
+                  </ul>
+                  <p>Storno poplatek zasílám na účet,ze kterého byla platba přijata.
+                  </p>
+                </div>
 
+              </div>
             </div>
           </div>
         </div>
