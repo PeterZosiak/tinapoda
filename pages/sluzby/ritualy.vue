@@ -3,50 +3,26 @@
     <!-- Portfolio -->
     <section class="ann-portfolio-page-section">
       <div class="container">
-        <!-- <div class="row">
-          <div class="col-md-12">
-            <div class="ann-blog-items ann-single-post">
-              <div class="entry-thumb">
-                <img src="/img/1920x1000.jpg" alt="blog post" />
-              </div>
-              <div class="ann-page-content mb-20">
-                <h2></h2>
-              </div>
-              <p>Nullam blandit augue nec ex venenatis accumsan. Suspendisse orci leo, faucibus sit amet velit sit amet, tristique semper magna. Nulla sit amet finibus dolor. Praesent et euismod odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-              <p>Nullam tempor, est vitae hendrerit hendrerit, lacus purus viverra ex, in consequat sapien ligula vulputate nisi. Nulla lobortis sapien nec felis finibus, at suscipit lacus porta. Fusce ut ultrices libero. In accumsan porta neque ut semper. Vivamus pretium ultrices risus quis suscipit. In vehicula arcu sit amet velit varius, in molestie mi dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-              <p>Nullam blandit augue nec ex venenatis accumsan. Suspendisse orci leo, faucibus sit amet velit sit amet, tristique semper magna. Nulla sit amet finibus dolor. Praesent et euismod odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-            </div>
-          </div>
-        </div>-->
-
         <div class="row">
           <div class="col-md-6 col-sm-12">
             <img class="mb-5 text-center img-fluid mx-auto d-block service-logo" src="/img/phyris_logo_gold.webp" alt="phyris logo" />
             <div class="img-wrapper mb-5">
-              <img class="ann-about-img img-fluid" src="/img/s111.webp" alt="Tina Poda - Ritualy">
+              <img class="ann-about-img img-fluid" src="/img/s111.webp" alt="AQUActive HYALURON Intensive – omlazení a hydratace pleti">
             </div>
           </div>
           <div class="col-md-6 col-sm-12">
             <h2 class="mb-5 text-center">Omlazení a hydratace</h2>
-            <ServiceItem title="AQUActive HYALURON intensive" price="2.490,-Kč / 90 min" price2="3.200,-Kč / 120 min Ritual zážitkové ošetření" description="Tohle unikátní ošetření pleti s 5 druhmi kyseliny hyaluronové je zážitkem pro všechny zákazníky s přáním zažít účinnou a maximální hydratační péči,ale zároveň i luxus smyslného okamžiku s autorskou masáží Tina Poda”
+            <ServiceItem title="Omlazení a Hydratace – AQUActive HYALURON Intensive" price="2.490,-Kč / 90 min" price2="3.200,-Kč / 120 min Ritual zážitkové ošetření" description="AQUActive HYALURON Intensive je unikátní ošetření pleti s 5 druhy kyseliny hyaluronové, které poskytuje maximální hydratační péči a luxusní zážitek s autorskou masáží Tina Poda. Díky nové složce HYDRO-BOOST doslova přivodní žíznivou pleť a okamžitě poskytne intenzivní hydrataci. Výsledkem je maximálně vyhlazená, viditelně omlazená a bez známek jemných vrásek kůže. <br> Toto zážitkové ošetření je propojeno s masážními pomůckami, které působí na všechny akupresurní body a smysly, včetně speciální masáže štětci, masáže rukou a dalších relaxačních technik.
 Díky nové složce HYDRO-BOOST doslova pri žíznivou pleť Vaše pokožka okamžite pocítí intenzivní hydrataci. <br>
 Výsledkem je maximálně vyhlazená kůže,viditelně omlazená ,vyplá a bez známek jemných vrásek. <br><br>
 <span class='strong-b'>Tohle zážitkové ošetření je propojené masážními pomůckami,které působí na všechny akupresurní body a zmysly”,speciální masáž štetcami,masáž rúk.</span>
 " />
 
-            <ServiceItem title="RETINOL TRIPLE A" price="2.490,-Kč / 90 min" description="Ošetření s inovativním trojitým Retinolem v nejvyšší možné koncentraci pro dosažení vysoce účinného protivráskového efektu pleti a dekoltu.
-Tohle unikátní ošetření s nejvyšší možnou koncentraci vitaminu A ( vitamín mládí) je vynikající v boji s vráskami a ztrátou elasticity pleti." />
+            <ServiceItem title="RETINOL TRIPLE A" price="2.490,-Kč / 90 min" description="RETINOL TRIPLE A je ošetření s inovativním trojitým retinolem v nejvyšší možné koncentraci pro dosažení vysoce účinného protivráskového efektu pleti a dekoltu. Toto unikátní ošetření s nejvyšší koncentrací vitamínu A (vitamín mládí) je vynikající v boji s vráskami a ztrátou elasticity pleti." />
 
-            <ServiceItem title="FOREST Ritual" price="2.790,-Kč / 90 min" description="Poďte zažít procházku lesem” v ošetření PHYRIS s pleťovou řadou FoRest.
-Tohle smyslné Rituálové ošetření Vaší pleti, Vás nadchne zážitkem vůní lesa,muzikoterapie, dotykem a speciální masáží, která Vám dovolí vypnout od okolitého uponáhlaného světa.<br>
-Výsledkem bude krásná,rozzářená a odpočinutá nejen pleť ale i mysl silné okysličená plet,doslova dam nadychnut pletov bunkam.<br>
-Ritual Forest je propojení muzikoterapie,zážitku,účinku a péče. <br>
-Při tomhle kosmetickém zážitku jsou použité i masážní pomůcky Guasha ,ledová masáž očního okolí žlutými tyčinkami a masáž štetcami." />
+            <ServiceItem title="FOREST Ritual" price="2.790,-Kč / 90 min" description="FOREST Ritual vás zve k procházce lesem v ošetření PHYRIS s pleťovou řadou FoRest. Toto smyslné rituálové ošetření pleti vás nadchne zážitkem vůní lesa, muzikoterapie, dotykem a speciální masáží, která vám umožní vypnout od okolního uponáhlaného světa. Výsledkem bude krásná, rozzářená a odpočinutá pleť, stejně jako relaxace mysli. <br> Použité masážní pomůcky zahrnují Guasha, ledovou masáž očního okolí žlutými tyčinkami a masáž štětci." />
 
-            <ServiceItem :is-last="true" title="SPICEup  Ritual Intense" price="2.790,-Kč /  90 min" description="Tohle podzimní ,teplé a vícesmyslové SPA rituál ošetření s tajemnou sílou exotického koření dodá Vaši pleti Vitalitu,Energii a Mládí” <br>
-Během rituálu je pokožka ošetřována speciální masáží,která podporuje mikrocirkulaci a zanechá pleť vypnutou ,hydratovanou a plnou energie.<br>
-SPA ritual SPICE up je navržen pro ty,kteří touží po dokonalém balancu mezi profesionální péči o pleť a smyslovým zážitkem.<br>
-Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vyživenou.<br>
+            <ServiceItem :is-last="true" title="SPICEup Ritual Intense" price="2.790,-Kč /  90 min" description="SPICEup Ritual Intense je podzimní, teplé a vícesmyslové SPA rituál ošetření s tajemnou sílou exotického koření, který dodá vaší pleti vitalitu, energii a mládí. Během rituálu je pokožka ošetřována speciální masáží podporující mikrocirkulaci, která zanechá pleť hydratovanou, vypnutou a plnou energie. <br> Tento SPA rituál je navržen pro ty, kteří touží po dokonalém balancu mezi profesionální péčí o pleť a smyslovým zážitkem. Omlazuje, oživuje, zklidňuje a zanechá pleť zářivou, zdravou a nádherně vyživenou.
 " />
 
 
@@ -64,34 +40,21 @@ Omlazuje.Oživuje,zklidňuje a zanechá pleť zářivou,zdravou a nádherně vy�
 
         <div class="row">
           <div class="col-md-6 col-sm-12">
-            <ServiceItem title="SEE CHANGE- COLAGEN Omlazení" price="2.790,-Kč / 90 min" description="Široké spektrum mořských řas v tomhle ošetření zklidňují pokožku,zvyšují její regeneraci a intenzivně hydratuje.<br>
-Širokospektrá lenost produktov See Change” v tomhle unikátním ošetření ,nám dovoluje posunout pevnost a syntézu kolagenu v kůži.<br>
-Ošetření, je jak oblíbené v létě( hydratace) , tak i v zimních obdobích,kde je použitý mořský kolagen s vitamínem C.<br>
-Pevnost a rozzáření kůže”
+            <ServiceItem title="SEE CHANGE - COLAGEN Omlazení" price="2.790,-Kč / 90 min" description="SEE CHANGE - COLAGEN Omlazení využívá široké spektrum mořských řas, které zklidňují pokožku, zvyšují její regeneraci a intenzivně hydratují. Díky produktům See Change je možné posunout pevnost a syntézu kolagenu v kůži. Toto ošetření je ideální jak pro letní hydrataci, tak pro zimní období, kde je použit mořský kolagen s vitamínem C pro zvýšení pevnosti a rozzáření kůže.
 " />
 
-            <ServiceItem title="“PERFECT AGE” omlazující ošetření s kmenovými buňkami" price="2.790,-Kč / 90 min" description="Tohle unikátní Anti-Aging ošetření je vynikající prevence pokožky pro všechny ženy i muže,který by chtěli dosáhnout nadčasovou krásu pro sebe i svoji pleť.
-Vysoce účinné látky v kombinaci s kmenových buněk z rozkvetlé jabloně ,mandlí,peptidov  a liftingovou masáží,okamžitě zjemňujú ,omlazujú a vypínajú Vaši pleť.
+            <ServiceItem title="PERFECT AGE – Omlazující Ošetření s Kmenovými Buňkami" price="2.790,-Kč / 90 min" description="PERFECT AGE je unikátní anti-aging ošetření s kmenovými buňkami, ideální pro prevenci a dosažení nadčasové krásy pleti. Vysoce účinné látky v kombinaci s kmenovými buňkami z rozkvetlé jabloně, mandlí, peptidů a liftingovou masáží okamžitě zjemňují, omlazují a vypínají vaši pleť.
 "></ServiceItem>
 
-            <ServiceItem title="LUXESSE GLOW TAHITS PEARLS  “RITUAL”" price="3.700,-Kč / 120 min" description="Exkluzivní VIP ošetření propojené do Rituálu Tina Poda” Vás nadchne už od prvního nádechu vůně řady Luxesse” <br>
-Tenhle Rituál zahrnuje luxusní produkty nejvyšší řady Luxesse Phyris.<br>
-Napojení terapeuta s klientem a zážitkové ošetření plné masážních tahů nejen rukama,ale i štetcami,zlatými masážními lžícemi a oční bodovou masáž kovovými tyčinkami.  <br>
-sklenička pri prichode <br>
-Třísložkový efekt v boji proti stárnutí dosáhne okamžité výsledky, které dokážou působit v hlubších vrstvách pleti.<br>
-Aktivní Černá perla z jižního moře / Tahiti / 
+            <ServiceItem title="LUXESSE GLOW TAHITS PEARLS “RITUAL”" price="3.700,-Kč / 120 min" description="LUXESSE GLOW TAHITS PEARLS “RITUAL” je exkluzivní VIP ošetření propojené s Rituálem Tina Poda, které vás nadchne už od prvního nádechu vůně řady Luxesse. Tento rituál zahrnuje luxusní produkty nejvyšší řady Luxesse Phyris, napojení terapeuta s klientem a zážitkové ošetření plné masážních tahů nejen rukama, ale i štětci, zlatými masážními lžícemi a oční bodovou masáží kovovými tyčinkami. Sklenička při příchodu a třísložkový efekt v boji proti stárnutí poskytují okamžité výsledky v hlubších vrstvách pleti.
 "></ServiceItem>
 
-            <ServiceItem :is-last="true" title="ANTI pigment “RITUAL” MANSARD”" price="2.790,-Kč / 90 min" description="Krása přímo z Paříže”
-Vysoce účinné antipigmentační ošetření a Ritual” kde sa zameříme na odstranění  existujících pigmentů a zabraníme tvorbě nových pigmentových skvr.
-Dopřejte Vaší pleti a mysli odpočinek a výsledkem bude Vaše pleť  
-celkově rozzářená a přesvětlená”
-Opakováním tyhle skvělé procedury, bude výsledný efekt Vaší pleti ještě silnější dlouhodobější.   
+            <ServiceItem :is-last="true" title="ANTI Pigment “RITUAL” MANSARD" price="2.790,-Kč / 90 min" description="ANTI Pigment “RITUAL” MANSARD je vysoce účinné antipigmentační ošetření zaměřené na odstranění existujících pigmentů a zabránění tvorbě nových pigmentových skvrn. Toto ošetření nejenže dopřává vaší pleti odpočinek, ale také zajišťuje rozzářenou a přesvětlenou pleť. Opakováním těchto procedur dosáhnete ještě silnějšího a dlouhodobějšího efektu.  
 "></ServiceItem>
           </div>
           <div class="col-md-6 col-sm-12">
             <div class="img-wrapper mb-5 mt-5">
-              <img class="ann-about-img img-fluid" src="/img/s112.webp" alt="Tina Poda - Ritualy">
+              <img class="ann-about-img img-fluid" src="/img/s112.webp" alt="FOREST Ritual – smyslné rituálové ošetření pleti">
             </div>
 
 
@@ -109,20 +72,288 @@ Opakováním tyhle skvělé procedury, bude výsledný efekt Vaší pleti ješt�
 
 
 <script setup>
+import { onMounted } from 'vue';
 import ServiceItem from '~/components/service-item.vue';
 useHead({
-  title: 'Luxusní Kosmetická Ošetření pro Hydrataci a Rejuvenaci | Tina Poda',
-  description: 'Objevte jedinečná kosmetická ošetření od Tiny Pody, která kombinují intenzivní hydrataci, protivráskovou péči a relaxační rituály. Vaše pleť bude svěží, rozzářená a mladistvá díky inovativním technologiím kyseliny hyaluronové, retinolu a relaxačním masážím.',
-  image: '/img/s111.png',
+  title: 'Služby – Profesionální Kosmetické Ošetření a Omlazení Pleti | Váš Beauty Expert na Krásu',
+  description: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda Beauty Salón. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
+  image: 'https://tinapoda.beauty/img/s111.webp',
   url: 'https://tinapoda.beauty/sluzby/ritualy',
 
 })
 
 useSeoMeta({
-  title: 'Luxusní Kosmetická Ošetření pro Hydrataci a Rejuvenaci | Tina Poda',
-  description: 'Objevte jedinečná kosmetická ošetření od Tiny Pody, která kombinují intenzivní hydrataci, protivráskovou péči a relaxační rituály. Vaše pleť bude svěží, rozzářená a mladistvá díky inovativním technologiím kyseliny hyaluronové, retinolu a relaxačním masážím.',
-  image: '/img/s111.png',
+  title: 'Služby – Profesionální Kosmetické Ošetření a Omlazení Pleti | Váš Beauty Expert na Krásu',
+  description: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda Beauty Salón. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
+  image: 'https://tinapoda.beauty/img/s111.webp',
   url: 'https://tinapoda.beauty/sluzby/ritualy',
+  ogTitle: 'Služby – Profesionální Kosmetické Ošetření a Omlazení Pleti | Váš Beauty Expert na Krásu',
+  ogDescription: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda Beauty Salón. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
+  ogImage: 'https://tinapoda.beauty/img/s111.webp',
+  ogUrl: 'https://tinapoda.beauty/sluzby/ritualy',
+  ogType: 'website',
+  ogLocale: 'cs_CZ',
+  ogSiteName: 'Tina Poda Váš Beauty Expert na Krásu',
 })
+
+
+
+onMounted(() => {
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.text = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Tina Poda Beauty Salón",
+    "image": "https://www.tinapoda.beauty/img/logo-dark.webp",
+    "@id": "https://www.tinapoda.beauty",
+    "url": "https://www.tinapoda.beauty",
+    "telephone": "+420 123 456 789",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Vinohradská 123",
+      "addressLocality": "Praha",
+      "postalCode": "120 00",
+      "addressCountry": "CZ"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 50.08804,
+      "longitude": 14.42076
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        'Saturday'
+      ],
+      "opens": "10:00",
+      "closes": "19:00"
+    },
+    "sameAs": [
+      "https://www.facebook.com/tina.t.balogova",
+      "https://www.facebook.com/tina.t.balogova"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Kosmetické Služby",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Omlazení a Hydratace – AQUActive HYALURON Intensive",
+            "description": "Unikátní ošetření pleti s 5 druhy kyseliny hyaluronové poskytující intenzivní hydrataci a omlazení pleti.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2490.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2490.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "RETINOL TRIPLE A",
+            "description": "Ošetření s inovativním trojitým Retinolem pro dosažení vysoce účinného protivráskového efektu pleti a dekoltu.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2490.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2490.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "FOREST Ritual",
+            "description": "Smyslné rituálové ošetření pleti s vůní lesa, muzikoterapií a speciální masáží pro relaxaci a regeneraci.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2790.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2790.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "SPICEup Ritual Intense",
+            "description": "Podzimní vícesmyslové SPA rituál ošetření s exotickým kořením pro vitalitu, energii a mládí pleti.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2790.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2790.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "SEE CHANGE - COLAGEN Omlazení",
+            "description": "Ošetření s mořskými řasami a kolagenem pro zvýšení pevnosti a regeneraci pleti, ideální pro každé roční období.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2790.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2790.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "PERFECT AGE – Omlazující Ošetření s Kmenovými Buňkami",
+            "description": "Anti-aging ošetření s kmenovými buňkami pro prevenci a dosažení nadčasové krásy pleti.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2790.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2790.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "LUXESSE GLOW TAHITS PEARLS “RITUAL”",
+            "description": "Exkluzivní VIP ošetření propojené s Rituálem Tina Poda, zahrnující luxusní produkty Luxesse Phyris a speciální masáže.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "3700.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "3700.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT120M"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "ANTI Pigment “RITUAL” MANSARD",
+            "description": "Vysoce účinné antipigmentační ošetření zaměřené na odstranění existujících pigmentů a zabránění tvorbě nových pigmentových skvrn.",
+            "image": "https://tinapoda.beauty/img/s111.webp",
+            "offers": {
+              "@type": "Offer",
+              "price": "2790.00",
+              "priceCurrency": "CZK",
+              "url": "https://www.tinapoda.beauty/kontakt",
+              "availability": "https://schema.org/InStock",
+              "priceSpecification": {
+                "@type": "PriceSpecification",
+                "price": "2790.00",
+                "priceCurrency": "CZK",
+                "eligibleQuantity": {
+                  "@type": "QuantitativeValue",
+                  "value": 1
+                }
+              }
+            },
+            "duration": "PT90M"
+          }
+        }
+      ]
+    }
+  });
+  document.head.appendChild(script);
+});
 
 </script>

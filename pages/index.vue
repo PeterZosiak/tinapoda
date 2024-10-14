@@ -62,15 +62,26 @@ onUnmounted(() => {
 });
 
 useHead({
-  title: 'Tina Poda - Beauty expert na Krásu',
-  description: 'Kosmetické procedury a autentické rituály, které napomáhá maximalizovat požitek z času věnovaného sobě. Váš Beauty expert na Krásu, již 20 let.', image: '/img/portraits/1.jpg',
+  title: 'Tina Poda – Profesionální Kosmetologie a Zdravé Rituály Pleti | Beauty Expert expert na Krásu',
+  description: 'Objevte jedinečné kosmetické ošetření od Tina Poda, odbornice na krásu s více než 20letou zkušeností. Nabízíme PHYRIS rituály, MEDICAL peelingy, dermaplaning kurzy a další služby pro zdravou a krásnou pleť. Rezervujte si svou návštěvu ještě dnes!',
+  image: 'https://tinapoda.beauty/img/portraits/1.jpg',
   url: 'https://tinapoda.beauty/',
+
 })
 
 useSeoMeta({
-  title: 'Tina Poda - Beauty expert na Krásu',
-  description: 'Kosmetické procedury a autentické rituály, které napomáhá maximalizovat požitek z času věnovaného sobě. Váš Beauty expert na Krásu, již 20 let.', image: '/img/portraits/1.jpg',
+  title: 'Tina Poda – Profesionální Kosmetologie a Zdravé Rituály Pleti | Beauty Expert expert na Krásu',
+  description: 'Objevte jedinečné kosmetické ošetření od Tina Poda, odbornice na krásu s více než 20letou zkušeností. Nabízíme PHYRIS rituály, MEDICAL peelingy, dermaplaning kurzy a další služby pro zdravou a krásnou pleť. Rezervujte si svou návštěvu ještě dnes!',
+  image: 'https://tinapoda.beauty/img/portraits/1.jpg',
   url: 'https://tinapoda.beauty/',
+  ogTitle: 'Tina Poda – Profesionální Kosmetologie a Zdravé Rituály Pleti | Beauty Expert expert na Krásu',
+  ogDescription: 'Objevte jedinečné kosmetické ošetření od Tina Poda, odbornice na krásu s více než 20letou zkušeností. Nabízíme PHYRIS rituály, MEDICAL peelingy, dermaplaning kurzy a další služby pro zdravou a krásnou pleť. Rezervujte si svou návštěvu ještě dnes!',
+  ogUrl: 'https://tinapoda.beauty/',
+  ogType: 'website',
+  ogImage: 'https://tinapoda.beauty/img/portraits/1.jpg',
+  ogSiteName: 'Tina Poda | Beauty Expert expert na Krásu',
+  ogLocale: 'cs_CZ',
+  keywords: 'Tina Poda, Kosmetologie, Krása a péče o pleť, Kosmetické ošetření, Chemické peelingy, Dermaplaning kurz, Zdravé rituály plet, Profesionální líčení, Školení pro kosmetičky, Beauty expert, PHYRIS rituály, MEDICAL peelingy',
 })
 
 </script>
