@@ -7,7 +7,7 @@
           <div class="col-md-12">
             <div class="ann-blog-items ann-single-post">
               <div class="entry-thumb">
-                <img src="/img/dermaplaning.webp" alt="Kosmetičky na kurzu Dermaplaning v Tina Poda Beauty Salón" />
+                <img src="/img/dermaplaning.webp" alt="Kosmetičky na kurzu Dermaplaning v Tina Poda Beauty Expert na Krásu" />
               </div>
               <div class="ann-page-content mb-20">
                 <h2>Kurz DERMAPLANING</h2>
@@ -177,6 +177,7 @@ onMounted(() => {
       "url": "http://localhost:3000/sluzby/kurzy",
       "price": "5500.00",
       "priceCurrency": "CZK",
+      "category": "Paid",
       "availability": "https://schema.org/InStock",
       "validFrom": "2024-10-01"
     },
@@ -185,7 +186,7 @@ onMounted(() => {
     "duration": "PT4H",
     "location": {
       "@type": "Place",
-      "name": "Tina Poda Beauty Salón",
+      "name": "Tina Poda Beauty Expert na Krásu",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Vinohradská 123",
@@ -196,10 +197,18 @@ onMounted(() => {
     },
     "hasCourseInstance": {
       "@type": "CourseInstance",
+      "courseMode": "Onsite",
+      "courseWorkload": "PT4H",
       "name": "Kurz Dermaplaning - Jednorázová Událost",
+      "courseSchedule": {
+        "@type": "Schedule",
+        "duration": "PT5H",
+        "repeatFrequency": "Daily",
+        "repeatCount": 1,
+      },
       "location": {
         "@type": "Place",
-        "name": "Tina Poda Beauty Salón",
+        "name": "Tina Poda Beauty Expert na Krásu",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Vinohradská 123",
