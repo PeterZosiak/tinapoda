@@ -202,7 +202,7 @@ onMounted(() => {
       "name": "Kurz Dermaplaning - Jednorázová Událost",
       "courseSchedule": {
         "@type": "Schedule",
-        "duration": "PT5H",
+        "duration": "PT4H",
         "repeatFrequency": "Daily",
         "repeatCount": 1,
       },
