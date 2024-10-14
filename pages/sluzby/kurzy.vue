@@ -21,7 +21,7 @@
                 Následné ošetření zvýší absorbaci sér a krémov na maximum
 
                 <span class="">Dermaplaning je úplně bezpečný, pokud se provede správně.</span>
-                Nevyžaduje žádnou dobu na rekonvalescenci. <span class="strong-b"> Ošetření je skvěle kombinovatelné a dopřeje Vaším klientům nádherný výsledek za minimální náklady. </span><br><br>
+                Nevyžaduje žádnou dobu na rekonvalescenci. <span class="strong-b"> Ošetření je skvěle kombinovatelné a dopřeje Vaším klientům nádherný výsledek za minimální náklady. </span><br><br> <br>
                 <nuxt-link to="/kontakt">KONTAKT</nuxt-link>
               </p>
 

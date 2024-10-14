@@ -273,13 +273,15 @@ button {
 }
 
 .jumbotron a {
-    position: absolute;
     bottom: 10px;
     left: 45%;
     padding: 5px 20px;
     background-color: #d1ab47;
     color: white;
-
+    display: block;
+    width: 250px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 
