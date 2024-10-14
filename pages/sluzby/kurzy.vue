@@ -7,7 +7,7 @@
           <div class="col-md-12">
             <div class="ann-blog-items ann-single-post">
               <div class="entry-thumb">
-                <img src="/img/dermaplaning.webp" alt="blog post" />
+                <img src="/img/dermaplaning.webp" alt="Kosmetičky na kurzu Dermaplaning v Tina Poda Beauty Salón" />
               </div>
               <div class="ann-page-content mb-20">
                 <h2>Kurz DERMAPLANING</h2>
@@ -77,7 +77,7 @@
           <div class="col-md-12">
             <div class="ann-blog-items ann-single-post">
               <div class="entry-thumb">
-                <img src="/img/osobne-licenie.webp" alt="blog post" />
+                <img src="/img/osobne-licenie.webp" alt="Profesionální školení Osobní Kurz Líčení" />
               </div>
 
               <div class="ann-page-content mb-20">
@@ -129,20 +129,88 @@
 
 
 <script setup>
-import ServiceItem from '~/components/service-item.vue';
 useHead({
-  title: 'Luxusní Kosmetická Ošetření pro Hydrataci a Rejuvenaci | Tina Poda',
-  description: 'Objevte jedinečná kosmetická ošetření od Tiny Pody, která kombinují intenzivní hydrataci, protivráskovou péči a relaxační rituály. Vaše pleť bude svěží, rozzářená a mladistvá díky inovativním technologiím kyseliny hyaluronové, retinolu a relaxačním masážím.',
-  image: '/img/s111.png',
-  url: 'https://tinapoda.beauty/sluzby/ritualy',
+  title: 'Kurz Dermaplaning – Exkluzivní Školení pro Kosmetičky | Tina Poda Beauty Expert na Krásu',
+  description: 'Zvyšte své kosmetické dovednosti s naším exkluzivním kurzem Dermaplaning. Naučte se profesionální techniky exfoliace pleti, získáte certifikát a posuňte svou kariéru na novou úroveň. Přihlaste se ještě dnes a získejte kompletní materiály a podporu od zkušené kosmetičky Tina Poda.',
+  image: 'https://tinapoda.beauty/img/dermaplaning.webp',
+  url: 'https://tinapoda.beauty/sluzby/kurzy',
 
 })
 
 useSeoMeta({
-  title: 'Luxusní Kosmetická Ošetření pro Hydrataci a Rejuvenaci | Tina Poda',
-  description: 'Objevte jedinečná kosmetická ošetření od Tiny Pody, která kombinují intenzivní hydrataci, protivráskovou péči a relaxační rituály. Vaše pleť bude svěží, rozzářená a mladistvá díky inovativním technologiím kyseliny hyaluronové, retinolu a relaxačním masážím.',
-  image: '/img/s111.png',
-  url: 'https://tinapoda.beauty/sluzby/ritualy',
+  title: 'Kurz Dermaplaning – Exkluzivní Školení pro Kosmetičky | Tina Poda Beauty Expert na Krásu',
+  description: 'Zvyšte své kosmetické dovednosti s naším exkluzivním kurzem Dermaplaning. Naučte se profesionální techniky exfoliace pleti, získáte certifikát a posuňte svou kariéru na novou úroveň. Přihlaste se ještě dnes a získejte kompletní materiály a podporu od zkušené kosmetičky Tina Poda.',
+  image: 'https://tinapoda.beauty/img/dermaplaning.webp',
+  url: 'https://tinapoda.beauty/sluzby/kurzy',
+  ogTitle: 'Kurz Dermaplaning – Exkluzivní Školení pro Kosmetičky | Tina Poda Beauty Expert na Krásu',
+  ogDescription: 'Zvyšte své kosmetické dovednosti s naším exkluzivním kurzem Dermaplaning. Naučte se profesionální techniky exfoliace pleti, získáte certifikát a posuňte svou kariéru na novou úroveň. Přihlaste se ještě dnes a získejte kompletní materiály a podporu od zkušené kosmetičky Tina Poda.',
+  ogUrl: 'https://tinapoda.beauty/sluzby/kurzy',
+  ogType: 'website',
+  ogImage: 'https://tinapoda.beauty/img/dermaplaning.webp',
+  ogSiteName: 'Tina Poda | Beauty Expert na Krásu',
+  ogLocale: 'cs_CZ',
 })
+
+
+onMounted(() => {
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.text = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Kurz Dermaplaning",
+    "description": "Exkluzivní školení pro kosmetičky zaměřené na profesionální techniky Dermaplaningu. Naučte se fyzikální techniky exfoliace pleti, identifikaci typů pokožky a správné hygienické postupy.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Tina Poda Beauty Expert na Krásu",
+      "image": "https://www.tinapoda.beauty/img/logo-dark.webp",
+      "@id": "https://www.tinapoda.beauty",
+      "url": "https://www.tinapoda.beauty",
+      "telephone": "+420 123 456 789",
+      "sameAs": [
+        "https://www.facebook.com/tina.t.balogova",
+        "https://www.instagram.com/tinapodaesthetics/"
+      ]
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "http://localhost:3000/sluzby/kurzy",
+      "price": "5500.00",
+      "priceCurrency": "CZK",
+      "availability": "https://schema.org/InStock",
+      "validFrom": "2024-10-01"
+    },
+    "coursePrerequisites": "Začínající i stávající kosmetičky se zájmem o pokročilé techniky ošetření pleti.",
+    "courseMode": "online, in-person",
+    "duration": "PT4H",
+    "location": {
+      "@type": "Place",
+      "name": "Tina Poda Beauty Salón",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vinohradská 123",
+        "addressLocality": "Praha",
+        "postalCode": "120 00",
+        "addressCountry": "CZ"
+      }
+    },
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "name": "Kurz Dermaplaning - Jednorázová Událost",
+      "location": {
+        "@type": "Place",
+        "name": "Tina Poda Beauty Salón",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Vinohradská 123",
+          "addressLocality": "Praha",
+          "postalCode": "120 00",
+          "addressCountry": "CZ"
+        }
+      }
+    }
+  });
+  document.head.appendChild(script);
+});
 
 </script>

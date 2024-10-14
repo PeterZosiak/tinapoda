@@ -6,12 +6,12 @@
         <div class="row">
           <div class="col-md-6 col-sm-12">
             <div class="img-wrapper mb-5">
-              <img class="ann-about-img img-fluid" src="/img/s311.webp" alt="Tina Poda - Peelings">
+              <img class="ann-about-img img-fluid" src="/img/s311.webp" alt="Exkluzivní doplňkové kosmetické procedury">
             </div>
           </div>
           <div class="col-md-6 col-sm-12">
 
-            <h2 class="mb-5 text-center">Doplňkové služby
+            <h2 class="mb-5 text-center">Doplňkové služby - Krása tkví v detailech
             </h2>
             <div class="px-3">
               <h3>DEPILACE VOSKEM
@@ -48,3 +48,28 @@
     </section>
   </div>
 </template>
+
+<script setup>
+useHead({
+  title: 'Doplňkové Služby – Exkluzivní Kosmetické Procedury | Tina Poda - Beauty expert na krásu',
+  image: 'https://tinapoda.beauty/img/s311.jpg',
+  url: 'https://tinapoda.beauty/sluzby/doplnkove-sluzby',
+  description: 'Objevte exkluzivní doplňkové služby od Tina Poda Beauty expert na krásu. Přizpůsobte si péči o pleť na míru s profesionálními extra procedurami pro maximální efekt a krásu. Kontaktujte nás ještě dnes a zažijte luxusní kosmetické ošetření!'
+});
+
+useSeoMeta({
+  keywords: 'Doplňkové služby,Exkluzivní kosmetické procedury,Profesionální extra služby,Péče o pleť na míru,Maximální efekt a krása,Individuální kosmetické ošetření,Luxusní kosmetické služby,Přizpůsobená péče o pleť,Extra kosmetické procedury',
+  image: 'https://tinapoda.beauty/img/s311.jpg',
+  url: 'https://tinapoda.beauty/sluzby/doplnkove-sluzby',
+  title: 'Doplňkové Služby – Exkluzivní Kosmetické Procedury | Tina Poda - Beauty expert na krásu',
+  description: 'Objevte exkluzivní doplňkové služby od Tina Poda Beauty expert na krásu. Přizpůsobte si péči o pleť na míru s profesionálními extra procedurami pro maximální efekt a krásu. Kontaktujte nás ještě dnes a zažijte luxusní kosmetické ošetření!',
+  ogTitle: 'Doplňkové Služby – Exkluzivní Kosmetické Procedury | Tina Poda - Beauty expert na krásu',
+  ogDescription: 'Objevte exkluzivní doplňkové služby od Tina Poda Beauty expert na krásu. Přizpůsobte si péči o pleť na míru s profesionálními extra procedurami pro maximální efekt a krásu. Kontaktujte nás ještě dnes a zažijte luxusní kosmetické ošetření!',
+  ogUrl: 'https://tinapoda.beauty/sluzby/doplnkove-sluzby',
+  ogType: 'website',
+  ogImage: 'https://tinapoda.beauty/img/s311.jpg',
+  ogSiteName: 'Tina Poda | Beauty expert na krásu',
+  ogLocale: 'cs_CZ',
+
+});
+</script>

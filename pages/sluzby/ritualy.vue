@@ -12,7 +12,7 @@
           </div>
           <div class="col-md-6 col-sm-12">
             <h2 class="mb-5 text-center">Omlazení a hydratace</h2>
-            <ServiceItem title="Omlazení a Hydratace – AQUActive HYALURON Intensive" price="2.490,-Kč / 90 min" price2="3.200,-Kč / 120 min Ritual zážitkové ošetření" description="AQUActive HYALURON Intensive je unikátní ošetření pleti s 5 druhy kyseliny hyaluronové, které poskytuje maximální hydratační péči a luxusní zážitek s autorskou masáží Tina Poda. Díky nové složce HYDRO-BOOST doslova přivodní žíznivou pleť a okamžitě poskytne intenzivní hydrataci. Výsledkem je maximálně vyhlazená, viditelně omlazená a bez známek jemných vrásek kůže. <br> Toto zážitkové ošetření je propojeno s masážními pomůckami, které působí na všechny akupresurní body a smysly, včetně speciální masáže štětci, masáže rukou a dalších relaxačních technik.
+            <ServiceItem title="AQUActive HYALURON Intensive" price="2.490,-Kč / 90 min" price2="3.200,-Kč / 120 min Ritual zážitkové ošetření" description="AQUActive HYALURON Intensive je unikátní ošetření pleti s 5 druhy kyseliny hyaluronové, které poskytuje maximální hydratační péči a luxusní zážitek s autorskou masáží Tina Poda. Díky nové složce HYDRO-BOOST doslova přivodní žíznivou pleť a okamžitě poskytne intenzivní hydrataci. Výsledkem je maximálně vyhlazená, viditelně omlazená a bez známek jemných vrásek kůže. <br> Toto zážitkové ošetření je propojeno s masážními pomůckami, které působí na všechny akupresurní body a smysly, včetně speciální masáže štětci, masáže rukou a dalších relaxačních technik.
 Díky nové složce HYDRO-BOOST doslova pri žíznivou pleť Vaše pokožka okamžite pocítí intenzivní hydrataci. <br>
 Výsledkem je maximálně vyhlazená kůže,viditelně omlazená ,vyplá a bez známek jemných vrásek. <br><br>
 <span class='strong-b'>Tohle zážitkové ošetření je propojené masážními pomůckami,které působí na všechny akupresurní body a zmysly”,speciální masáž štetcami,masáž rúk.</span>
@@ -136,7 +136,7 @@ onMounted(() => {
     },
     "sameAs": [
       "https://www.facebook.com/tina.t.balogova",
-      "https://www.facebook.com/tina.t.balogova"
+      "https://www.instagram.com/tinapodaesthetics/"
     ],
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -146,14 +146,14 @@ onMounted(() => {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "Omlazení a Hydratace – AQUActive HYALURON Intensive",
+            "name": "AQUActive HYALURON Intensive",
             "description": "Unikátní ošetření pleti s 5 druhy kyseliny hyaluronové poskytující intenzivní hydrataci a omlazení pleti.",
             "image": "https://tinapoda.beauty/img/s111.webp",
             "offers": {
               "@type": "Offer",
               "price": "2490.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -179,7 +179,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "2490.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -205,7 +205,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "2790.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -231,7 +231,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "2790.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -257,7 +257,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "2790.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -283,7 +283,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "2790.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -309,7 +309,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "3700.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",
@@ -335,7 +335,7 @@ onMounted(() => {
               "@type": "Offer",
               "price": "2790.00",
               "priceCurrency": "CZK",
-              "url": "https://www.tinapoda.beauty/kontakt",
+              "url": "https://tinapoda.beauty/sluzby/ritualy",
               "availability": "https://schema.org/InStock",
               "priceSpecification": {
                 "@type": "PriceSpecification",

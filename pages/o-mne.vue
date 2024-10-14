@@ -38,7 +38,7 @@
 
 <script setup>
 useHead({
-  title: 'O Tina Poda – Váš Beauty Expert na Péči o Pleť a Kosmetologie',
+  title: 'O Tina Poda – Váš Beauty Expert na Krásu a Péči o Pleť a Kosmetologie',
   description: 'Poznejte mne - Tina Poda, zkušenou beauty expertku s více než 20 lety v kosmetologii. Specializuje se na autentické rituály, make-up a komplexní péči o pleť. Působí v Praze na Vinohradech a je členkou akademie ALMAF BEAUTY.',
   image: 'https://tinapoda.beauty/img/t1.jpg',
   url: 'https://tinapoda.beauty/o-mne',
@@ -50,7 +50,7 @@ useSeoMeta({
   description: 'Poznejte mne - Tina Poda, zkušenou beauty expertku s více než 20 lety v kosmetologii. Specializuje se na autentické rituály, make-up a komplexní péči o pleť. Působí v Praze na Vinohradech a je členkou akademie ALMAF BEAUTY.',
   image: 'https://tinapoda.beauty/img/t1.jpg',
   url: 'https://tinapoda.beauty/o-mne',
-  ogTitle: 'O Tina Poda – Váš Beauty Expert na Péči o Pleť a Kosmetologie',
+  ogTitle: 'O Tina Poda – Váš Beauty Expert na Krásu a Péči o Pleť a Kosmetologie',
   ogDescription: 'Poznejte mne - Tina Poda, zkušenou beauty expertku s více než 20 lety v kosmetologii. Specializuje se na autentické rituály, make-up a komplexní péči o pleť. Působí v Praze na Vinohradech a je členkou akademie ALMAF BEAUTY.',
   ogImage: 'https://tinapoda.beauty/img/t1.jpg',
   ogUrl: 'https://tinapoda.beauty/o-mne',
