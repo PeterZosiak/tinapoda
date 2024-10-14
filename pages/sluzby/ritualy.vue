@@ -76,7 +76,7 @@ import { onMounted } from 'vue';
 import ServiceItem from '~/components/service-item.vue';
 useHead({
   title: 'Služby – Profesionální Kosmetické Ošetření a Omlazení Pleti | Váš Beauty Expert na Krásu',
-  description: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda Beauty Salón. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
+  description: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda | Beauty Expert na Krásu. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
   image: 'https://tinapoda.beauty/img/s111.webp',
   url: 'https://tinapoda.beauty/sluzby/ritualy',
 
@@ -84,11 +84,11 @@ useHead({
 
 useSeoMeta({
   title: 'Služby – Profesionální Kosmetické Ošetření a Omlazení Pleti | Váš Beauty Expert na Krásu',
-  description: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda Beauty Salón. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
+  description: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda | Beauty Expert na Krásu. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
   image: 'https://tinapoda.beauty/img/s111.webp',
   url: 'https://tinapoda.beauty/sluzby/ritualy',
   ogTitle: 'Služby – Profesionální Kosmetické Ošetření a Omlazení Pleti | Váš Beauty Expert na Krásu',
-  ogDescription: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda Beauty Salón. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
+  ogDescription: 'Objevte širokou škálu profesionálních kosmetických služeb od Tina Poda | Beauty Expert na Krásu. Nabízíme omlazení a hydrataci pleti, anti-aging ošetření, retinol procedury, luxusní rituály a další exkluzivní péče o pleť. Rezervujte si svůj termín ještě dnes!',
   ogImage: 'https://tinapoda.beauty/img/s111.webp',
   ogUrl: 'https://tinapoda.beauty/sluzby/ritualy',
   ogType: 'website',
@@ -104,7 +104,7 @@ onMounted(() => {
   script.text = JSON.stringify({
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Tina Poda Beauty Salón",
+    "name": "Tina Poda | Beauty Expert na Krásu",
     "image": "https://www.tinapoda.beauty/img/logo-dark.webp",
     "@id": "https://www.tinapoda.beauty",
     "url": "https://www.tinapoda.beauty",
