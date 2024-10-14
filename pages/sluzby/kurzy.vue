@@ -26,77 +26,99 @@
               </p>
 
 
-              <div class="row">
-                <div class="col-md-6 col-xs-12">
-                  <div class="mb-5"></div>
-                  <div class="img-wrapper"><img src="/img/DERMAPLANING-tina.webp" alt=""></div>
 
-                </div>
-                <div class="col-md-6 col-xs-12">
-                  <div class="mb-5"></div>
-                  <h4 class="">O kurzu DERMAPLANING</h4>
-                  <ul class="services">
-                    <li>Na kurzu tě naučím kompletní teorii Dermaplaning, jak provést správnou techniku narábění se skalpelem a hygienický zásady ,které jsou spojeny s tímhle ošetřením.</li>
-                    <li>Probereme identifikaci různých tipov pokožky, protokoly s čím můžete Dermaplaning kombinovat a individuální potřeby klienta.
-                    </li>
-                    <li>Sezónní změny a vplyv dermaplaningu na pokožku.</li>
-                    <li>Produkty a postupy před a po Dermaplaningu.
-                    </li>
-                  </ul>
-                  <p class="">Po tomhle kurze můžeš hned začít pracovat na svých klientech,kde uvidíš okamžité výsledky s pleti klienta.</p>
-                  <h4 class="mt-5">Pro koho je kurz DERMAPLANING určen?
-                  </h4>
-                  <ul class="services">
-                    <li>Tenhle kurz je určen pro všechny kosmetičky začínající a stávající.
-                    </li>
-                    <li>Pracuje se s kosmetikou <strong>PHYRIS a AHA kyselinami</strong>.</li>
-                    <li>Délka kurzu 4 hodiny, kde se nejdříve probere celá teorie DERMAPLANING,protokoly s čím můžete tuhle službu kombinovat,Tipy ode mně a přesný návod šitý na míru pro Tebe v Tvojom salone.
-                    </li>
-                    <li>Následně se pracuje na modelce.
-                      (Je zapotřebí před kurzem oznámit,zda máte svou modelku,nebo ji mám zabezpečit ja)
-                    </li>
-                  </ul>
-                  <h4 class="mt-5">
-                    Cena kurzu DERMAPLANING - <span><strong>5.500,-Kč / 4 hodiny</strong></span>
-                  </h4>
-                  <p>V ceně kurzu jsou:</p>
-                  <ul class="services">
-                    <li>Vytisklé podklady s veškerými informacemi DERMAPLANING
-                      a informací k souhlasu ošetření</li>
-                    <li>1 Ks Chirurgická rukojeť pro čepel</li>
-                    <li>3 Ks sterilních chirurgických čepelí</li>
-                    <li> Certifikát o ukončení kurzu</li>
-                    <li>Malé občerstvení a sklenka Prosecca</li>
+              <div class="mb-5"></div>
+              <h4 class="">O kurzu DERMAPLANING</h4>
+              <ul class="services">
+                <li>Na kurzu tě naučím kompletní teorii Dermaplaning, jak provést správnou techniku narábění se skalpelem a hygienický zásady ,které jsou spojeny s tímhle ošetřením.</li>
+                <li>Probereme identifikaci různých tipov pokožky, protokoly s čím můžete Dermaplaning kombinovat a individuální potřeby klienta.
+                </li>
+                <li>Sezónní změny a vplyv dermaplaningu na pokožku.</li>
+                <li>Produkty a postupy před a po Dermaplaningu.
+                </li>
+              </ul>
+              <p class="">Po tomhle kurze můžeš hned začít pracovat na svých klientech,kde uvidíš okamžité výsledky s pleti klienta.</p>
+              <h4 class="mt-5">Pro koho je kurz DERMAPLANING určen?
+              </h4>
+              <ul class="services">
+                <li>Tenhle kurz je určen pro všechny kosmetičky začínající a stávající.
+                </li>
+                <li>Pracuje se s kosmetikou <strong>PHYRIS a AHA kyselinami</strong>.</li>
+                <li>Délka kurzu 4 hodiny, kde se nejdříve probere celá teorie DERMAPLANING,protokoly s čím můžete tuhle službu kombinovat,Tipy ode mně a přesný návod šitý na míru pro Tebe v Tvojom salone.
+                </li>
+                <li>Následně se pracuje na modelce.
+                  (Je zapotřebí před kurzem oznámit,zda máte svou modelku,nebo ji mám zabezpečit ja)
+                </li>
+              </ul>
+              <h4 class="mt-5">
+                Cena kurzu DERMAPLANING - <span><strong>5.500,-Kč / 4 hodiny</strong></span>
+              </h4>
+              <p>V ceně kurzu jsou:</p>
+              <ul class="services">
+                <li>Vytisklé podklady s veškerými informacemi DERMAPLANING
+                  a informací k souhlasu ošetření</li>
+                <li>1 Ks Chirurgická rukojeť pro čepel</li>
+                <li>3 Ks sterilních chirurgických čepelí</li>
+                <li> Certifikát o ukončení kurzu</li>
+                <li>Malé občerstvení a sklenka Prosecca</li>
 
-                  </ul>
-                </div>
+              </ul>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </section>
+    <section class="ann-portfolio-page-section">
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="ann-blog-items ann-single-post">
+              <div class="entry-thumb">
+                <img src="/img/osobne-licenie.webp" alt="blog post" />
               </div>
-              <div class="row"></div>
-              <div class="row">
-                <div class="col-md-12 mt-5">
-                  <h3>Podmínky pro přihlášení na kurz
-                  </h3>
-                  <p class="mb-3">Prostřednictvím kontaktního formuláře uvedeného na moji web.stránce v sekci <nuxt-link to="/kontakt">KONTAKT</nuxt-link> uvádějte prosím celé jméno a telefonní číslo.
-                  </p>
-                  <p class="mb-3">Platba kurzu je převodem na bankovní účet, který bude veden v emailu,který obdržíte po zadání Vašich údajů. <br><br>
-                    Při platbě Vás poprosím do poznámky uvést: Vaše jméno,pod kterým jste se přihlásili na kurz. <br><br>
-                    Po závazném přihlášení a uhrazení kurzu Vám zpětně odešlu potvrzující email o potvrzení Vaši přihlášky. <br>
-                  </p>
-                  <p class="mb-3">Zrušení přihlášky na kurz a žádost o vrácení platby: Žádost o vrácení platby pouze písemně do emailu a to nejpozději 7 kalendářních dnů před konáním kurzem.
-                  </p>
-                  <p>Storno podmínky:</p>
-                  <ul class="services">
-                    <li>100% min 7 před zahájením kurzu
-                    </li>
-                    <li>50% v případě nemoci
-                    </li>
-                    <li>0% - 24 hod pred kurzu</li>
-                  </ul>
-                  <p>Storno poplatek zasílám na účet,ze kterého byla platba přijata.
-                  </p>
-                </div>
 
+              <div class="ann-page-content mb-20">
+                <h2>Osobní Kurz Líčení
+                </h2>
+                <h4 class="strong-b">“Jak na rudou rtěnku”
+                </h4>
+                <div class="mb-5"></div>
+                <h4 class="">O kurzu Osobní Kurz Líčení</h4>
+                <p>Naším společným cílem je rozbít stereotypy v líčení ,objevit a odstranit chyby,nebo se zbavit předsudků z používání Make- up .
+                </p>
+                <h4 class="mt-5">
+                  Cena kurzu Osobní Kurz Líčení - <span><strong>4.200,-Kč / 4 hodiny</strong></span>
+                </h4>
               </div>
+            </div>
+            <hr>
+            <div class="row">
+              <div class="col-md-12 mt-5">
+                <h3>Podmínky pro přihlášení na kurz
+                </h3>
+                <p class="mb-3">Prostřednictvím kontaktního formuláře uvedeného na moji web stránce v sekci <nuxt-link to="/kontakt">KONTAKT</nuxt-link> uvádějte prosím celé jméno a telefonní číslo.
+                </p>
+                <p class="mb-3">Platba kurzu je převodem na bankovní účet, který bude veden v emailu,který obdržíte po zadání Vašich údajů. <br><br>
+                  Při platbě Vás poprosím do poznámky uvést: Vaše jméno, pod kterým jste se přihlásili na kurz. <br><br>
+                  Po závazném přihlášení a uhrazení kurzu Vám zpětně odešlu potvrzující email o potvrzení Vaši přihlášky. <br>
+                </p>
+                <p class="mb-3">Zrušení přihlášky na kurz a žádost o vrácení platby: Žádost o vrácení platby pouze písemně do emailu a to nejpozději 7 kalendářních dnů před konáním kurzem.
+                </p>
+                <p>Storno podmínky:</p>
+                <ul class="services">
+                  <li>100% min 7 před zahájením kurzu
+                  </li>
+                  <li>50% v případě nemoci
+                  </li>
+                  <li>0% - 24 hod pred kurzu</li>
+                </ul>
+                <p>Storno poplatek zasílám na účet,ze kterého byla platba přijata.
+                </p>
+              </div>
+
             </div>
           </div>
         </div>
