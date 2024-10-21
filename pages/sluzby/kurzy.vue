@@ -70,8 +70,12 @@
         </div>
       </div>
     </section>
-    <section class="ann-portfolio-page-section">
-
+    <div class="container">
+      <div class="row">
+        <hr>
+      </div>
+    </div>
+    <section class="ann-course-page-section">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
