@@ -67,6 +67,12 @@ Výsledkem je maximálně vyhlazená kůže,viditelně omlazená ,vyplá a bez z
         </div>
       </div>
     </section>
+    <div class="container">
+      <div class="row">
+        <hr>
+      </div>
+    </div>
+    <Services :is-heading="false" />
   </div>
 </template>
 

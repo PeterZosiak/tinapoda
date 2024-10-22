@@ -1,8 +1,8 @@
 <template>
   <div>
     <!-- Doplnkove sluzby -->
-    <section class="ann-about-section-home ann-about-inner-page bg-black additional-services">
-      <div class="container">
+    <section class="ann-about-inner-page additional-services">
+      <div class="container bg-black">
         <div class="row ann-about-inner">
           <div class="col-md-8 offset-md-2 text-center">
             <div class="ann-about-info">

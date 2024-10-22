@@ -3,7 +3,7 @@
     <!-- Services -->
     <section class="ann-homepage-services-section">
       <div class="container">
-        <div class="row">
+        <div class="row" v-if="isHeading">
           <div class="col-md-6 offset-md-3 text-center mb-40">
             <h2>Portfolio</h2>
             <p>Mé služby zahrnují komplexní kosmetické a zážitkové ošetření pleti, chemické peelingy, líčení a školení pro Kosmetičky.
@@ -13,7 +13,7 @@
         </div>
         <div class="row">
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/ritualy">
+            <nuxt-link to="/sluzby/ritualy">
               <div class="item e2">
                 <img src="/img/ritualy.webp" alt="Tina Poda provádí PHYRIS rituál na zdravou pleť" />
                 <div class="text2">
@@ -29,7 +29,7 @@
           </div>
 
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/peelingy">
+            <nuxt-link to="/sluzby/peelingy">
               <div class="item e2">
                 <img src="/img/peelingy.webp" alt="Výsledek MEDICAL chemického peelingu od Tina Poda" />
                 <div class="text2">
@@ -44,7 +44,7 @@
             </nuxt-link>
           </div>
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/doplnkove-sluzby">
+            <nuxt-link to="/sluzby/doplnkove-sluzby">
               <div class="item e2">
                 <img src="/img/doplnkove.webp" alt="Doplňkové služby od Tina Poda" />
                 <div class="text2">
@@ -60,7 +60,7 @@
             </nuxt-link>
           </div>
           <div class="col-md-6 single-item">
-            <nuxt-link to="sluzby/kurzy">
+            <nuxt-link to="/sluzby/kurzy">
               <div class="item e2">
                 <img src="/img/kurzy.webp" alt="Kurz dermaplaning vedený odbornicí Tina Poda" />
                 <div class="text2">
@@ -80,3 +80,10 @@
     </section>
   </div>
 </template>
+
+<script setup>
+defineProps({
+  isHeading: { type: Boolean, default: true }
+})
+
+</script>

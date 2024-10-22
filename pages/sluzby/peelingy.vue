@@ -53,6 +53,12 @@
         </div>
       </div>
     </section>
+    <div class="container">
+      <div class="row">
+        <hr>
+      </div>
+    </div>
+    <Services :is-heading="false" />
   </div>
 </template>
 

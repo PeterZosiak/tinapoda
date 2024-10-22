@@ -761,6 +761,13 @@ button {
 
 .additional-services {
     margin-bottom: 100px;
+    position: relative;
+    background: transparent;
+
+}
+
+.additional-services>div {
+    padding: 45px 0;
 }
 
 .ann-about-content {}

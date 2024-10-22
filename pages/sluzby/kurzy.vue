@@ -51,7 +51,7 @@
                 </li>
               </ul>
               <h4 class="mt-5">
-                Cena kurzu DERMAPLANING - <span><strong>Pro bližší info o ceně a trvání kurzu mě prosím <nuxt-link to="/kontakt">KONTAKTUJTE</nuxt-link> </strong></span>
+                Cena kurzu DERMAPLANING - <span><strong>Pro bližší info o ceně a trvání kurzu mě prosím <nuxt-link class="ann-post-meta" to="/kontakt">KONTAKTUJTE</nuxt-link> </strong></span>
               </h4>
               <p>V ceně kurzu jsou:</p>
               <ul class="services">
@@ -128,6 +128,12 @@
         </div>
       </div>
     </section>
+    <div class="container">
+      <div class="row">
+        <hr>
+      </div>
+    </div>
+    <Services :is-heading="false" />
   </div>
 </template>
 
