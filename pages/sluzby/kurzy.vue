@@ -44,29 +44,26 @@
                 <li>Tenhle kurz je určen pro všechny kosmetičky začínající a stávající.
                 </li>
                 <li>Pracuje se s kosmetikou <strong>PHYRIS a AHA kyselinami</strong>.</li>
-                <li>Délka kurzu 4 hodiny, kde se nejdříve probere celá teorie DERMAPLANING,protokoly s čím můžete tuhle službu kombinovat,Tipy ode mně a přesný návod šitý na míru pro Tebe v Tvojom salone.
+                <li>Délka kurzu 6 hodin, kde se nejdříve probere celá teorie DERMAPLANING,protokoly s čím můžete tuhle službu kombinovat,Tipy ode mně a přesný návod šitý na míru pro Tebe v Tvojom salone.
                 </li>
                 <li>Následně se pracuje na modelce.
                   (Je zapotřebí před kurzem oznámit,zda máte svou modelku,nebo ji mám zabezpečit ja)
                 </li>
               </ul>
               <h4 class="mt-5">
-                Cena kurzu DERMAPLANING - <span><strong>Pro bližší info o ceně a trvání kurzu mě prosím <nuxt-link class="ann-post-meta" to="/kontakt">KONTAKTUJTE</nuxt-link> </strong></span>
+                Cena kurzu DERMAPLANING - <span><strong>9000,-Kč / 6 hodin</strong></span>
               </h4>
               <p>V ceně kurzu jsou:</p>
               <ul class="services">
                 <li>Vytisklé podklady s veškerými informacemi DERMAPLANING
                   a informací k souhlasu ošetření</li>
                 <li>1 Ks Chirurgická rukojeť pro čepel</li>
-                <li>3 Ks sterilních chirurgických čepelí</li>
+                <li>5 Ks sterilních chirurgických čepelí</li>
                 <li> Certifikát o ukončení kurzu</li>
                 <li>Malé občerstvení a sklenka Prosecca</li>
-
               </ul>
             </div>
           </div>
-
-
         </div>
       </div>
     </section>
@@ -184,8 +181,8 @@ onMounted(() => {
     },
     "offers": {
       "@type": "Offer",
-      "url": "http://localhost:3000/sluzby/kurzy",
-      "price": "5500.00",
+      "url": "https://www.tinapoda.beauty/sluzby/kurzy",
+      "price": "9000.00",
       "priceCurrency": "CZK",
       "category": "Paid",
       "availability": "https://schema.org/InStock",
@@ -193,7 +190,7 @@ onMounted(() => {
     },
     "coursePrerequisites": "Začínající i stávající kosmetičky se zájmem o pokročilé techniky ošetření pleti.",
     "courseMode": "online, in-person",
-    "duration": "PT4H",
+    "duration": "PT6H",
     "location": {
       "@type": "Place",
       "name": "Tina Poda Beauty Expert na Krásu",
@@ -212,7 +209,7 @@ onMounted(() => {
       "name": "Kurz Dermaplaning - Jednorázová Událost",
       "courseSchedule": {
         "@type": "Schedule",
-        "duration": "PT4H",
+        "duration": "PT6H",
         "repeatFrequency": "Daily",
         "repeatCount": 1,
       },
